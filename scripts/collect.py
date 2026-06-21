@@ -65,7 +65,7 @@ G2B_OPERATIONS = {
     "용역": "getBidPblancListInfoServcPPSSrch",
     "공사": "getBidPblancListInfoCnstwkPPSSrch",
 }
-G2B_BASE = "http://apis.data.go.kr/1230000/BidPublicInfoService"
+G2B_BASE = "https://apis.data.go.kr/1230000/BidPublicInfoService"
 
 
 def fetch_g2b(scenarios):
@@ -83,7 +83,6 @@ def fetch_g2b(scenarios):
         page = 1
         while True:
             params = {
-                "ServiceKey": G2B_API_KEY,
                 "type": "json",
                 "inqryDiv": "1",  # 1: 공고게시일시 기준
                 "inqryBgnDt": bgn_str,
@@ -91,11 +90,21 @@ def fetch_g2b(scenarios):
                 "pageNo": str(page),
                 "numOfRows": "100",
             }
-            url = f"{G2B_BASE}/{operation}?" + urllib.parse.urlencode(params)
+            # ServiceKey는 data.go.kr에서 발급된 상태 그대로(Decoding 키, 특수문자 포함)
+            # URL에 붙여야 하므로 urlencode 대상에서 제외하고 별도로 결합한다.
+            # (이중 인코딩 시 502/500 에러가 발생할 수 있음)
+            query = urllib.parse.urlencode(params)
+            url = f"{G2B_BASE}/{operation}?ServiceKey={G2B_API_KEY}&{query}"
             try:
                 data = http_get_json(url)
             except Exception as e:
                 print(f"[g2b][{category}] 요청 실패: {e}", file=sys.stderr)
+                # 디버깅을 위해 응답 본문 일부 출력 시도
+                try:
+                    err_body = e.read().decode("utf-8", errors="replace")[:500]
+                    print(f"[g2b][{category}] 응답 본문: {err_body}", file=sys.stderr)
+                except Exception:
+                    pass
                 break
 
             body = data.get("response", {}).get("body", {})
