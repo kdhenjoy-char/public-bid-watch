@@ -61,11 +61,11 @@ def match_scenarios(title, scenarios):
 # ---------------------------------------------------------------------------
 # 업무구분별로 오퍼레이션이 분리되어 있음: 물품 / 용역 / 공사
 G2B_OPERATIONS = {
-    "물품": "getBidPblancListInfoThngPPSSrch",
-    "용역": "getBidPblancListInfoServcPPSSrch",
-    "공사": "getBidPblancListInfoCnstwkPPSSrch",
+    "물품": "getBidPblancListInfoThng",
+    "용역": "getBidPblancListInfoServc",
+    "공사": "getBidPblancListInfoCnstwk",
 }
-G2B_BASE = "https://apis.data.go.kr/1230000/BidPublicInfoService"
+G2B_BASE = "https://apis.data.go.kr/1230000/ad/BidPublicInfoService"
 
 
 def fetch_g2b(scenarios):
@@ -88,7 +88,7 @@ def fetch_g2b(scenarios):
                 "inqryBgnDt": bgn_str,
                 "inqryEndDt": end_str,
                 "pageNo": str(page),
-                "numOfRows": "100",
+                "numOfRows": "999",
             }
             # ServiceKey는 data.go.kr에서 발급된 상태 그대로(Decoding 키, 특수문자 포함)
             # URL에 붙여야 하므로 urlencode 대상에서 제외하고 별도로 결합한다.
@@ -134,7 +134,7 @@ def fetch_g2b(scenarios):
                 })
 
             total_count = int(body.get("totalCount", 0) or 0)
-            if page * 100 >= total_count:
+            if page * 999 >= total_count:
                 break
             page += 1
             time.sleep(SLEEP_BETWEEN_CALLS)
