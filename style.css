@@ -1,0 +1,201 @@
+:root {
+  --bg: #0f1115;
+  --surface: #171a21;
+  --surface-2: #1f232c;
+  --border: #2a2f3a;
+  --text: #e8eaed;
+  --text-muted: #9aa1ad;
+  --accent: #4f8cff;
+  --urgent: #ff6b6b;
+  --ongoing: #4f8cff;
+  --closed: #5c6370;
+  --radius: 10px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.page-header {
+  padding: 32px 24px 16px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.page-header h1 { font-size: 22px; margin: 0 0 8px; }
+.subtitle { color: var(--text-muted); font-size: 14px; margin: 0 0 12px; }
+
+.meta-row {
+  display: flex;
+  gap: 16px;
+  font-size: 13px;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+}
+
+.scenario-tabs {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.scenario-tab {
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.scenario-tab.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.summary-cards {
+  max-width: 1100px;
+  margin: 20px auto 0;
+  padding: 0 24px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+.card-title { font-size: 13px; color: var(--text-muted); margin-bottom: 6px; }
+.card-value { font-size: 26px; font-weight: 700; }
+.card[data-status="urgent"] .card-value { color: var(--urgent); }
+.card[data-status="ongoing"] .card-value { color: var(--ongoing); }
+
+.filters {
+  max-width: 1100px;
+  margin: 16px auto 0;
+  padding: 0 24px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.filter-group { display: flex; gap: 6px; flex-wrap: wrap; }
+
+.filter-btn, .filter-btn-all {
+  padding: 5px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.filter-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+.filter-btn-all { background: var(--surface-2); }
+
+main {
+  max-width: 1100px;
+  margin: 20px auto 60px;
+  padding: 0 24px;
+}
+
+.loading, .empty-state {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 60px 0;
+}
+
+.hidden { display: none !important; }
+
+.bid-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.bid-table th, .bid-table td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.bid-table th {
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.bid-table tbody tr:hover { background: var(--surface); cursor: pointer; }
+
+.status-pill {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.status-pill.urgent { background: rgba(255,107,107,0.15); color: var(--urgent); }
+.status-pill.ongoing { background: rgba(79,140,255,0.15); color: var(--ongoing); }
+.status-pill.closed { background: rgba(92,99,112,0.2); color: var(--closed); }
+
+.source-tag {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+footer {
+  max-width: 1100px;
+  margin: 0 auto 40px;
+  padding: 0 24px;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+footer a { color: var(--accent); }
+
+.disclaimer { color: #6b7280; }
+
+.modal {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 50;
+}
+
+.modal-content {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  width: 90%;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+.modal-close {
+  position: absolute; top: 12px; right: 16px;
+  background: none; border: none; color: var(--text-muted);
+  font-size: 20px; cursor: pointer;
+}
+
+.modal-desc { color: var(--text-muted); font-size: 13px; }

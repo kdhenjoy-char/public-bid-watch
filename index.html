@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>공공 공고 트래커 (나라장터 · 기업마당)</title>
+<meta name="description" content="나라장터(조달청)와 기업마당(중기부) 등 다중 출처에서 시나리오별 키워드로 매일 자동 수집하는 공공 공고 대시보드." />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="page-header">
+    <h1>공공 공고 트래커 (나라장터 · 기업마당)</h1>
+    <p class="subtitle">나라장터(조달청) · 기업마당(중기부) · IRIS(범부처 R&amp;D) · NRF(한국연구재단) · IITP(정보통신기획평가원) 5개 출처에서 시나리오별 키워드 매치 공고를 매일 자동 수집합니다.</p>
+    <div class="meta-row">
+      <span id="scenario-label">시나리오 로딩 중…</span>
+      <span id="updated-at">갱신: -</span>
+      <span id="keyword-label">키워드: -</span>
+    </div>
+  </header>
+
+  <nav class="scenario-tabs" id="scenario-tabs"></nav>
+
+  <section class="summary-cards" id="summary-cards">
+    <div class="card" data-status="urgent">
+      <div class="card-title">마감 임박 (7일 이내)</div>
+      <div class="card-value" id="count-urgent">-</div>
+    </div>
+    <div class="card" data-status="ongoing">
+      <div class="card-title">진행 중</div>
+      <div class="card-value" id="count-ongoing">-</div>
+    </div>
+    <div class="card" data-status="closed">
+      <div class="card-title">마감됨</div>
+      <div class="card-value" id="count-closed">-</div>
+    </div>
+    <div class="card" data-status="all">
+      <div class="card-title">전체</div>
+      <div class="card-value" id="count-all">-</div>
+    </div>
+  </section>
+
+  <section class="filters">
+    <div class="filter-group" id="status-filters">
+      <button class="filter-btn active" data-status="urgent">마감 임박</button>
+      <button class="filter-btn active" data-status="ongoing">진행 중</button>
+      <button class="filter-btn" data-status="closed">마감됨</button>
+      <button class="filter-btn-all" data-action="all">전체</button>
+    </div>
+    <div class="filter-group" id="source-filters">
+      <button class="filter-btn active" data-source="나라장터">나라장터</button>
+      <button class="filter-btn active" data-source="기업마당">기업마당</button>
+      <button class="filter-btn active" data-source="IRIS">국가R&amp;D(IRIS)</button>
+      <button class="filter-btn active" data-source="NRF">한국연구재단(NRF)</button>
+      <button class="filter-btn active" data-source="IITP">정보통신기획평가원(IITP)</button>
+      <button class="filter-btn-all" data-action="all-source">전체</button>
+    </div>
+  </section>
+
+  <main>
+    <div id="loading" class="loading">데이터를 불러오는 중…</div>
+    <table id="bid-table" class="bid-table hidden">
+      <thead>
+        <tr>
+          <th>상태</th>
+          <th>출처</th>
+          <th>공고명</th>
+          <th>발주/소관기관</th>
+          <th>공고일</th>
+          <th>마감일</th>
+          <th>바로가기</th>
+        </tr>
+      </thead>
+      <tbody id="bid-table-body"></tbody>
+    </table>
+    <div id="empty-state" class="empty-state hidden">조건에 맞는 공고가 없습니다.</div>
+  </main>
+
+  <footer>
+    <p>데이터 출처:
+      <a href="https://www.g2b.go.kr" target="_blank" rel="noopener">나라장터(조달청)</a> ·
+      <a href="https://www.bizinfo.go.kr" target="_blank" rel="noopener">기업마당(중기부)</a> ·
+      <a href="https://www.iris.go.kr" target="_blank" rel="noopener">IRIS(범부처통합연구지원시스템)</a>
+    </p>
+    <p>API:
+      <a href="https://www.data.go.kr/data/15129394/openapi.do" target="_blank" rel="noopener">조달청 입찰공고정보서비스</a> ·
+      <a href="https://www.bizinfo.go.kr/apiDetail.do?id=bizinfoApi" target="_blank" rel="noopener">기업마당 지원사업정보 API</a>
+    </p>
+    <p class="disclaimer">이 페이지의 정보는 참고용이며 공식 공고 내용과 다를 수 있습니다. 입찰·신청 전 반드시 공식 공고를 확인하세요.</p>
+  </footer>
+
+  <!-- 사업계획서 초안 생성 모달 (Step 6 에서 기능 연결 예정) -->
+  <div id="plan-modal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close">×</button>
+      <h2 id="plan-modal-title">사업계획서 초안 생성</h2>
+      <p class="modal-desc">선택한 공고를 기반으로 초안을 생성합니다. (준비 중)</p>
+      <div id="plan-modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
