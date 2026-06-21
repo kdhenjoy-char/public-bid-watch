@@ -12,6 +12,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,5 +35,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/announcements.json
           git diff --quiet --cached || git commit -m "chore: update announcements ($(date -u +'%Y-%m-%d'))"
-          git pull --rebase origin main
+          git fetch origin main
+          # data/announcements.json은 자동생성 파일이므로, 충돌 시 항상 방금 수집한(로컬) 결과를 우선한다.
+          git merge origin/main --no-edit -X ours || true
           git push
