@@ -40,19 +40,25 @@
   </section>
 
   <section class="filters">
-    <div class="filter-group" id="status-filters">
-      <button class="filter-btn active" data-status="urgent">마감 임박</button>
-      <button class="filter-btn active" data-status="ongoing">진행 중</button>
-      <button class="filter-btn" data-status="closed">마감됨</button>
-      <button class="filter-btn-all" data-action="all">전체</button>
+    <div class="search-row">
+      <input type="text" id="search-input" class="search-input" placeholder="공고명·기관으로 필터 (예: 구축, 국방부)" />
+      <button id="search-stop" class="search-stop-btn" title="검색 중지(초기화)">중지</button>
     </div>
-    <div class="filter-group" id="source-filters">
-      <button class="filter-btn active" data-source="나라장터">나라장터</button>
-      <button class="filter-btn active" data-source="기업마당">기업마당</button>
-      <button class="filter-btn active" data-source="IRIS">국가R&amp;D(IRIS)</button>
-      <button class="filter-btn active" data-source="NRF">한국연구재단(NRF)</button>
-      <button class="filter-btn active" data-source="IITP">정보통신기획평가원(IITP)</button>
-      <button class="filter-btn-all" data-action="all-source">전체</button>
+    <div class="filter-rows">
+      <div class="filter-group" id="status-filters">
+        <button class="filter-btn active" data-status="urgent">마감 임박</button>
+        <button class="filter-btn active" data-status="ongoing">진행 중</button>
+        <button class="filter-btn" data-status="closed">마감됨</button>
+        <button class="filter-btn-all" data-action="all">전체</button>
+      </div>
+      <div class="filter-group" id="source-filters">
+        <button class="filter-btn active" data-source="나라장터">나라장터</button>
+        <button class="filter-btn active" data-source="기업마당">기업마당</button>
+        <button class="filter-btn active" data-source="IRIS">국가R&amp;D(IRIS)</button>
+        <button class="filter-btn active" data-source="NRF">한국연구재단(NRF)</button>
+        <button class="filter-btn active" data-source="IITP">정보통신기획평가원(IITP)</button>
+        <button class="filter-btn-all" data-action="all-source">전체</button>
+      </div>
     </div>
   </section>
 
@@ -93,8 +99,9 @@
     <div class="modal-content">
       <button class="modal-close" id="modal-close">×</button>
       <h2 id="plan-modal-title">사업계획서 초안 생성</h2>
-      <p class="modal-desc">선택한 공고를 기반으로 초안을 생성합니다. (준비 중)</p>
+      <p class="modal-desc">선택한 공고를 기반으로 초안을 생성합니다.</p>
       <div id="plan-modal-body"></div>
+      <button id="draft-btn" class="draft-btn">📄 사업계획서 초안 작성 (Word 다운로드)</button>
     </div>
   </div>
 
