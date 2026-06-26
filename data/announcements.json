@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T00:02:53",
+  "generated_at": "2026-06-26T23:52:50",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 7,
+  "count": 16,
   "items": [
     {
       "source": "나라장터",
@@ -135,6 +135,141 @@
       "deadline": "2026-07-08 14:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01603541&bidPbancOrd=000",
       "budget": "71720000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[한남대학교] 클라우드 기반 생성형 AI 플랫폼 구매 제한경쟁입찰",
+      "org": "한남대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01604081",
+      "notice_date": "2026-06-26 11:30:04",
+      "deadline": "2026-07-06 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604081&bidPbancOrd=000",
+      "budget": "105000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 양돈 인공지능 번식관리 시스템 구축사업 영호축산 모돈자동급이기 및 환경제어기 공급",
+      "org": "농업회사법인 주식회사 영호축산",
+      "demand_org": "",
+      "notice_no": "R26BK01604885",
+      "notice_date": "2026-06-26 16:02:46",
+      "deadline": "2026-07-02 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604885&bidPbancOrd=000",
+      "budget": "211941000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 기반 가공 클램핑 최적화 및 시뮬레이션 알고리즘 개발",
+      "org": "한국생산기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01603714",
+      "notice_date": "2026-06-26 09:33:40",
+      "deadline": "2026-06-26 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01603714&bidPbancOrd=000",
+      "budget": "30000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "LLM 기반 위성영상 메타데이터 검색 서비스의 Zero Trust 보안 기술 연구",
+      "org": "한국항공우주연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01604036",
+      "notice_date": "2026-06-26 11:10:20",
+      "deadline": "2026-07-07 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604036&bidPbancOrd=000",
+      "budget": "88200000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "철도 인프라 디지털트윈 유지보수 관리 시스템 시작품 제작",
+      "org": "한국철도기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01604059",
+      "notice_date": "2026-06-26 11:21:55",
+      "deadline": "2026-07-07 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604059&bidPbancOrd=000",
+      "budget": "195000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026-15호 성결대학교 생성형 AI 서비스 도입 사업 용역",
+      "org": "성결대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01604185",
+      "notice_date": "2026-06-26 12:09:15",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604185&bidPbancOrd=000",
+      "budget": "100000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "데이터 관리체계 고도화 및 생성형 AI 서비스 구축 감리",
+      "org": "예금보험공사",
+      "demand_org": "",
+      "notice_no": "R26BK01604622",
+      "notice_date": "2026-06-26 14:46:25",
+      "deadline": "2026-07-09 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604622&bidPbancOrd=000",
+      "budget": "183771000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "(재공고) Dynamic Signal Measurement System (S/W: TestLab) 및 Dynamic modeling tool (S/W: Amesim) 유지보수 용역",
+      "org": "국방과학연구소",
+      "demand_org": "",
+      "notice_no": "R26BK01604735",
+      "notice_date": "2026-06-26 15:15:57",
+      "deadline": "2026-07-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01604735&bidPbancOrd=000",
+      "budget": "78900000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 및 응용서비스 구축 감리 및 개인정보 영향평가 용역",
+      "org": "조달청 강원지방조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01602663",
+      "notice_date": "2026-06-26 18:12:41",
+      "deadline": "2026-07-08 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01602663&bidPbancOrd=000",
+      "budget": "242134000"
     },
     {
       "source": "나라장터",
