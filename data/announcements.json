@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T23:58:06",
+  "generated_at": "2026-06-29T23:51:07",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,113 @@
       ]
     }
   ],
-  "count": 23,
+  "count": 19,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "서울과학기술대학교 산학협력단 연구장비(LLM 연계 온톨리지 기반 시뮬레이션 자동 생성용 전용 서버) 구매",
+      "org": "서울과학기술대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01605858",
+      "notice_date": "2026-06-29 10:05:19",
+      "deadline": "2026-07-07 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01605858&bidPbancOrd=000",
+      "budget": "50000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "서울과학기술대학교 산학협력단 연구장비(인공지능 학습용 GPU 서버) 구매",
+      "org": "서울과학기술대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01606470",
+      "notice_date": "2026-06-29 13:20:17",
+      "deadline": "2026-07-07 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606470&bidPbancOrd=000",
+      "budget": "88550000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "디지털트윈 비디오월 워크스테이션",
+      "org": "광주과학기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01606790",
+      "notice_date": "2026-06-29 14:31:02",
+      "deadline": "2026-07-07 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606790&bidPbancOrd=000",
+      "budget": "29700000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "부원고등학교 학과재구조화 기자재(스마트공장 실습장비) 구입 입찰 공고(긴급)",
+      "org": "경기도교육청 부원고등학교",
+      "demand_org": "",
+      "notice_no": "R26BK01606806",
+      "notice_date": "2026-06-29 14:56:01",
+      "deadline": "2026-07-10 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606806&bidPbancOrd=000",
+      "budget": "231000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "(재공고) 축소형 DTQC 기반 스마트항만 디지털트윈 교육 실습 장비",
+      "org": "국립목포해양대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01606802",
+      "notice_date": "2026-06-29 15:11:28",
+      "deadline": "2026-07-07 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606802&bidPbancOrd=000",
+      "budget": "84480000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "(2026년 권역책임의료기관 AI 기반 시스템 지원사업) 인공지능 기반 뇌출혈 검출 솔루션 소프트웨어 구독 계약 입찰공고",
+      "org": "경상국립대학교병원",
+      "demand_org": "",
+      "notice_no": "R26BK01607674",
+      "notice_date": "2026-06-29 17:50:50",
+      "deadline": "2026-07-06 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01607674&bidPbancOrd=000",
+      "budget": "1"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "(2026년 권역책임의료기관 AI 기반 시스템 지원사업) 음성인식기반 인공지능 의무기록 서비스 구독 계약 입찰공고",
+      "org": "경상국립대학교병원",
+      "demand_org": "",
+      "notice_no": "R26BK01607743",
+      "notice_date": "2026-06-29 18:06:22",
+      "deadline": "2026-07-06 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01607743&bidPbancOrd=000",
+      "budget": "1"
+    },
     {
       "source": "나라장터",
       "category": "용역",
@@ -62,334 +167,169 @@
       "budget": "82500000"
     },
     {
-      "source": "기업마당",
-      "category": "기술,전남,2026,가상융합산업,가상융합,생성형AI,콘텐츠개발,전남정보문화산업진흥원,콘텐츠제작,고도화,SW,전라남도,AI",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[전남] 2026년 생성형 AI SW 활용 지원사업 공고(가상융합산업 혁신센터 운영사업)",
-      "org": "전라남도",
-      "demand_org": "전남정보문화산업진흥원",
-      "notice_no": "PBLN_000000000123685",
-      "notice_date": "2026-06-26 15:04:48",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123685",
-      "budget": ""
+      "title": "인공지능 활용 서비스 사례 발굴·확산(연구·편집)",
+      "org": "한국지역정보개발원",
+      "demand_org": "",
+      "notice_no": "R26BK01605759",
+      "notice_date": "2026-06-29 10:20:32",
+      "deadline": "2026-07-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01605759&bidPbancOrd=000",
+      "budget": "25000000"
     },
     {
-      "source": "기업마당",
-      "category": "수출,서울,부산,대구,인천,광주,대전,울산,세종,경기,강원,충북,충남,전북,전남,경북,경남,제주,2026,강원테크노파크,과학기술정보통신부,메타버스,VR,AR,의료기기,디지털트윈,디지털기술,싱가포르,부스임차료,장치비,부스시공비,통역지원비",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "smart-factory"
       ],
-      "title": "2026년 글로벌(싱가포르) 시장 진출 지원 기업 추가모집 공고(디지털트윈 융합 의료혁신 선도사업)",
-      "org": "과학기술정보통신부",
-      "demand_org": "강원테크노파크",
-      "notice_no": "PBLN_000000000123624",
-      "notice_date": "2026-06-25 15:19:30",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123624",
-      "budget": ""
+      "title": "베트남 스마트공장 실증데모센터 구축 기본계획 수립",
+      "org": "중소기업기술정보진흥원",
+      "demand_org": "",
+      "notice_no": "R26BK01606001",
+      "notice_date": "2026-06-29 10:33:55",
+      "deadline": "2026-07-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606001&bidPbancOrd=000",
+      "budget": "81000000"
     },
     {
-      "source": "기업마당",
-      "category": "기술,충북,AX검증,제조AI현장,제지,2026,융합바이오,진천군,음성군,청주시,충주시,의료,실증,충북테크노파크,식품,제조기업,충청북도,화장품,컨설팅,중소기업기술정보진흥원,중소벤처기업부,중견기업,중소기업",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "smart-factory"
       ],
-      "title": "[충북] 2026년 제조 AI 현장 적용 지원 사업 수혜기업 모집 연장 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "충북테크노파크",
-      "notice_no": "PBLN_000000000123569",
-      "notice_date": "2026-06-24 14:13:51",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123569",
-      "budget": ""
+      "title": "섬유 제조 공정 디지털트윈을 위한 KOTMI AI Lab Factory 시스템 개발",
+      "org": "（재）한국섬유기계융합연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01605191",
+      "notice_date": "2026-06-29 10:38:22",
+      "deadline": "2026-07-10 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01605191&bidPbancOrd=000",
+      "budget": "315000000"
     },
     {
-      "source": "기업마당",
-      "category": "경영,경북,정보통신기술제품,2026,기초단계,스마트공장구축,구축,포항시,포항테크노파크,중견,ICT,스마트공장,경상북도,제조업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경북] 포항시 2026년 경북형(포항) 스마트공장(기초단계) 구축지원사업 추가모집 공고",
-      "org": "경상북도",
-      "demand_org": "포항테크노파크",
-      "notice_no": "PBLN_000000000123543",
-      "notice_date": "2026-06-24 11:16:30",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123543",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경기,클라우드환경,클라우드서버,컴퓨팅활용,2026,GPU,AI기술,클라우드,빅데이터,부천산업진흥원,부천시,경기도,인공지능,AI,중소기업",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[경기] 부천시 2026년 인공지능(AI) 클라우드 컴퓨팅 활용 지원사업 추가모집 공고",
-      "org": "경기도",
-      "demand_org": "부천산업진흥원",
-      "notice_no": "PBLN_000000000123518",
-      "notice_date": "2026-06-23 14:19:04",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123518",
-      "budget": ""
+      "title": "생성형 AI기반 침해대응체계 도입 및 구축",
+      "org": "조달청 광주지방조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01602207",
+      "notice_date": "2026-06-29 11:11:49",
+      "deadline": "2026-07-22 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01602207&bidPbancOrd=000",
+      "budget": "5027110000"
     },
     {
-      "source": "기업마당",
-      "category": "기술,전북,인공지능 기술,AI 신뢰성,AI 기획,TAI,인공지능 신뢰성(TAI),한국정보통신기술 협회,AI 활용,2026,전북특별자치도,전주정보문화산업진흥원",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[전북] 2026년 인공지능 신뢰성 향상지원 및 확보지원 참여기업 모집 공고",
-      "org": "전북특별자치도",
-      "demand_org": "전주정보문화산업진흥원",
-      "notice_no": "PBLN_000000000123437",
-      "notice_date": "2026-06-22 13:32:59",
+      "title": "LLM 기반 생성형 AI 플랫폼 도입 수행업체 선정",
+      "org": "인하대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01606073",
+      "notice_date": "2026-06-29 11:24:27",
       "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123437",
-      "budget": ""
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606073&bidPbancOrd=000",
+      "budget": "100000000"
     },
     {
-      "source": "기업마당",
-      "category": "기술,경영,전북,익산 제2일반산단,완주과학산단,새만금국가산단,해양 모빌리티,2026,AX,전북특별자치도,심층진단,산업단지,디지털,DX,전북테크노파크,컨설팅,인공지능,중견기업,중소기업",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[전북] 2026년 전북권 산업단지 기업 인공지능 기술 도입을 위한 인공지능 전환 도입 컨설팅 지원사업 재공고",
-      "org": "전북특별자치도",
-      "demand_org": "전북테크노파크",
-      "notice_no": "PBLN_000000000123302",
-      "notice_date": "2026-06-17 14:06:02",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123302",
-      "budget": ""
+      "title": "2026. 작은학교 개별 맞춤형 수업 실현을 위한 생성형 AI 활용 교원 직무연수 위탁 용역 ",
+      "org": "경상남도교육청",
+      "demand_org": "",
+      "notice_no": "R26BK01605667",
+      "notice_date": "2026-06-29 13:21:04",
+      "deadline": "2026-07-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01605667&bidPbancOrd=000",
+      "budget": "47200000"
     },
     {
-      "source": "기업마당",
-      "category": "기술,충북,2026,산업통상부,충북과학기술혁신원,중소기업,중견,첨단반도체,융합바이오,친환경모빌리티부품산업,인공지능전환의지,인공지능전환,AI,도입,실증,충청북도",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[충북] 2026년 산업 AI 도입·실증 지원사업 참여기업 모집 공고(산업 인공지능 전환 및 확산 기반조성 사업)",
-      "org": "산업통상부",
-      "demand_org": "충북과학기술혁신원",
-      "notice_no": "PBLN_000000000123231",
-      "notice_date": "2026-06-16 13:49:17",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123231",
-      "budget": ""
+      "title": "(재공고) [울산대학교 RISE(앵커)사업단 AI-DX] 글로벌 AI 에이전트 활용 교육(AWS 연계) 프로그램",
+      "org": "울산대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01606509",
+      "notice_date": "2026-06-29 13:26:25",
+      "deadline": "2026-07-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606509&bidPbancOrd=000",
+      "budget": "50000000"
     },
     {
-      "source": "기업마당",
-      "category": "기술,내수,경기,카페트,2026,LLM,테이블,조명,제조기술,데이터수집,임차료,산업용로봇,장치비,경기테크노파크,전기,빅데이터,경기도,AI,중소기업,자율생산시스템,산업AI EXPO",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경기] 2026년 산업AI EXPO 참가기업 모집 공고(스마트공장 종합지원)",
-      "org": "경기도",
-      "demand_org": "경기테크노파크",
-      "notice_no": "PBLN_000000000123219",
-      "notice_date": "2026-06-16 13:09:36",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123219",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "내수,경남,산업통상부,부스관리,2026,철거비용,사용료,시공,한국전기연구원,창원시,빅데이터,디자인,전시회,바이오,의료기기,AI,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경남] 창원시 2026년 제14회 부산국제의료기기전시회(KIMES BUSAN 2026) 참가기업 모집 공고",
-      "org": "산업통상부",
-      "demand_org": "한국전기연구원",
-      "notice_no": "PBLN_000000000123209",
-      "notice_date": "2026-06-16 10:49:06",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123209",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경남,2026,경남테크노파크,경상남도,창원,진주,김해,양산,스마트공장,AI,제조기업,중소기업,중견기업,AI공장",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경남] 2026년 산업안전 AI 스마트공장 구축 지원사업 공고",
-      "org": "경상남도",
-      "demand_org": "경남테크노파크",
-      "notice_no": "PBLN_000000000123074",
-      "notice_date": "2026-06-11 14:35:07",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123074",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,강원,상지대학교 산학협력단,연세대학교 미래산학협력단,강원 특별자치도,원주의료기기산업진흥원,2026,강원특별자치도,원주시,실증,정보통신산업진흥원,강원테크노파크,과학기술정보통신부,디지털트윈,컨설팅,의료기기",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2026년 디지털트윈 기반 의료기기 개발 실증기업 모집 공고(디지털트윈 융합 의료혁신 선도사업 3차년도)",
-      "org": "과학기술정보통신부",
-      "demand_org": "원주의료기기산업진흥원",
-      "notice_no": "PBLN_000000000122959",
-      "notice_date": "2026-06-09 14:38:41",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122959",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,경영,서울,부산,대구,인천,광주,대전,울산,세종,경기,강원,충북,충남,전북,전남,경북,경남,제주,산업통상부,원주의료기기산업진흥원,2026,계약체결,항공임,교통비,강원의료기기전시회,바이어초청,마케팅",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "제22회 강원의료기기전시회(GMES 2026) 국내ㆍ외 바이어 초청 지원사업 2차 신청 공고",
-      "org": "산업통상부",
-      "demand_org": "원주의료기기산업진흥원",
-      "notice_no": "PBLN_000000000122946",
-      "notice_date": "2026-06-09 14:00:49",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122946",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "경영,서울,부산,대구,인천,광주,대전,울산,세종,경기,강원,충북,충남,전북,전남,경북,경남,제주,성장확산기업,오픈소스기반,소규모언어모델,검색증강생성,AI테크포트,AI에이전트,2026,경북대학교 첨단정보통신융합산업기술원,sLLM,동대구,창업아이템,초기창업기업,경북대학교,한국지능정보사회진흥원,비즈니스모델,예비창업자,대구광역시,과학기술정보통신부,중소기업",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "2026년 AI 서비스 개발ㆍ확산 지원사업 모집 공고(동대구벤처밸리 AI테크포트 구축)",
-      "org": "과학기술정보통신부",
-      "demand_org": "경북대학교 첨단정보통신융합산업기술원",
-      "notice_no": "PBLN_000000000122904",
-      "notice_date": "2026-06-08 15:08:15",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122904",
-      "budget": ""
+      "title": "산학협력단 AI 챗봇(곰비서) 고도화 사업",
+      "org": "강원대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01606518",
+      "notice_date": "2026-06-29 13:30:14",
+      "deadline": "2026-07-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606518&bidPbancOrd=000",
+      "budget": "60000000"
     },
     {
-      "source": "기업마당",
-      "category": "경영,강원,2026,강원특별자치도,강원테크노파크,중소기업ㅈ,중견,제조업,바이오헬스,식품,지역특화형,스마트공장,스마트공장보급,스마트공장확산,스마트공장구축,제조공정,ICT,정보통신기술,중소벤처기업부,중소기업기술정보진흥원",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[강원] 2026년 지역특화형(바이오헬스ㆍ식품) 스마트공장 구축사업 공고",
-      "org": "강원특별자치도",
-      "demand_org": "강원테크노파크",
-      "notice_no": "PBLN_000000000122421",
-      "notice_date": "2026-05-26 14:32:11",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122421",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "경영,전남,청정공조,중량선별기,2026,지역특화형,X-ray,금속검출기,검사장비,구축,제조공정,식품,ICT,제조기업,바이오,전라남도,전남테크노파크,스마트공장,중소기업기술정보진흥원,중소벤처기업부,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[전남] 2026년 지역특화형(식품ㆍ바이오분야) 스마트공장 구축사업(고도화) 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "전남테크노파크",
-      "notice_no": "PBLN_000000000122410",
-      "notice_date": "2026-05-26 13:39:08",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122410",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경북,품설계,2026,제어기,센서,방산,제조공정,자동화장비,솔루션,모빌리티,ICT,제조기업,스마트공장,중소기업기술정보진흥원,중소벤처기업부,경상북도,경북테크노파크,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경북] 2026년 지역특화형(고도화) 스마트공장 구축사업 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "경북테크노파크",
-      "notice_no": "PBLN_000000000122359",
-      "notice_date": "2026-05-22 14:16:47",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122359",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,전북,2026,전북특별자치도,전북테크노파크,인공지능,AI융합,기술애로,기술지도,인공지능분야,인공지능기술",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[전북] 인공지능 분야 기술지도 희망기업 모집 상시 공고(AI융합 지능형 농업 생태계 구축 사업)",
-      "org": "전북특별자치도",
-      "demand_org": "전북테크노파크",
-      "notice_no": "PBLN_000000000121749",
-      "notice_date": "2026-05-08 11:30:47",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121749",
-      "budget": ""
+      "title": "인공지능(AI) 활용에 따른 국내 콘텐츠산업 영향력 분석연구 위탁용역",
+      "org": "한국콘텐츠진흥원",
+      "demand_org": "",
+      "notice_no": "R26BK01607098",
+      "notice_date": "2026-06-29 15:29:49",
+      "deadline": "2026-07-10 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01607098&bidPbancOrd=000",
+      "budget": "76000000"
     },
     {
-      "source": "기업마당",
-      "category": "경영,서울,부산,대구,인천,광주,대전,울산,세종,경기,강원,충북,충남,전북,전남,경북,경남,제주,2026,원주시,디지털헬스케어,고도화,서비스,개발,네트워크,강원테크노파크,과학기술정보통신부,디지털트윈,제조,컨설팅,의료기기,교육",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2026년 디지털트윈 플랫폼 활용 수요기업 모집 수정 공고(디지털트윈 융합 의료혁신 선도사업)",
-      "org": "과학기술정보통신부",
-      "demand_org": "강원테크노파크",
-      "notice_no": "PBLN_000000000121718",
-      "notice_date": "2026-05-07 14:49:51",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121718",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,광주,데이터취득,디바이스AI,2026,현장견학,벤치마킹,정보제공,AI기술,간담회,자동화장비,현장애로,역량강화,사업설명회,광주테크노파크,컨설팅,중소벤처기업부,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[광주] 2026년 스마트공장 지원계획 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "광주테크노파크",
-      "notice_no": "PBLN_000000000121614",
-      "notice_date": "2026-05-06 10:52:21",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121614",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경영,서울,부산,대구,인천,광주,대전,울산,세종,경기,강원,충북,충남,전북,전남,경북,경남,제주,심사보고서,스마트화수준확인,수준확인서,고도화전략,2026,수준확인,스마트제조혁신협회,구축,대한상공회의소,중견,스마트공장,중소기업기술정보진흥원,중소벤처기업부,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2026년 스마트공장 수준확인 사업 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "중소기업기술정보진흥원",
-      "notice_no": "PBLN_000000000118006",
-      "notice_date": "2026-01-29 13:39:27",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118006",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경영,광주,업무협약체결,AI집적단지,유치기업,조성사업,인공지능산업융합사업단,보조금,광주광역시,인공지능,2026,광주AI집적단지,컨설팅,입지,설비투자,임대,고용,교육훈련,이주직원",
+      "source": "나라장터",
+      "category": "용역",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[광주] 인공지능 유치기업 보조금 지원사업 모집 공고",
-      "org": "광주광역시",
-      "demand_org": "인공지능산업융합사업단",
-      "notice_no": "PBLN_000000000117371",
-      "notice_date": "2026-01-13 10:26:44",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117371",
-      "budget": ""
+      "title": "행정지원 AI 에이전트 구축",
+      "org": "서울특별시",
+      "demand_org": "",
+      "notice_no": "R26BK01606766",
+      "notice_date": "2026-06-29 15:30:12",
+      "deadline": "2026-07-10 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606766&bidPbancOrd=000",
+      "budget": "1796124000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 활용 업무지원 서비스 고도화",
+      "org": "한국생산기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01607578",
+      "notice_date": "2026-06-29 17:27:18",
+      "deadline": "2026-07-20 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01607578&bidPbancOrd=000",
+      "budget": "324690000"
     }
   ]
 }
