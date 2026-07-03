@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T23:54:39",
+  "generated_at": "2026-07-03T23:54:31",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,97 +44,67 @@
       ]
     }
   ],
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "재생에너지 디지털트윈 모델 성능 향상을 위한 기상환경정보 모델링 기술 구매",
-      "org": "한국전기연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01610695",
-      "notice_date": "2026-07-01 10:53:27",
-      "deadline": "2026-07-02 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01610695&bidPbancOrd=000",
-      "budget": "30000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "제조 지식그래프 기반 LLM 에이전트 및 지식그래프 시범 시스템 개발",
-      "org": "한국생산기술연구원",
+      "title": "치안정책연구소 치안 특화 LLM 개발을 위한 구글 클라우드 서비스 구입 (수의시담)",
+      "org": "경찰청 경찰대학",
       "demand_org": "",
-      "notice_no": "R26BK01610871",
-      "notice_date": "2026-07-01 11:46:13",
-      "deadline": "2026-07-13 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01610871&bidPbancOrd=000",
-      "budget": "21450000"
+      "notice_no": "R26BK01613756",
+      "notice_date": "2026-07-03 09:24:28",
+      "deadline": "2026-07-03 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613756&bidPbancOrd=000",
+      "budget": "19800000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "인공지능 활용 확대에 따른 지능형로봇법 개선 방안 연구 용역",
-      "org": "조달청 대구지방조달청",
+      "title": "2026년 양돈 인공지능 번식관리 시스템 구축사업 영호축산 모돈자동급이기 및 환경제어기 공급",
+      "org": "농업회사법인 주식회사 영호축산",
       "demand_org": "",
-      "notice_no": "R26BK01610433",
-      "notice_date": "2026-07-01 13:24:18",
-      "deadline": "2026-07-15 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01610433&bidPbancOrd=000",
-      "budget": "119170427"
+      "notice_no": "R26BK01615654",
+      "notice_date": "2026-07-03 13:46:37",
+      "deadline": "2026-07-09 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615654&bidPbancOrd=000",
+      "budget": "211941000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
-        "gen-ai"
+        "marine-robot"
       ],
-      "title": "가천대학교 AI부트캠프 사업 생성형 AI 에이전트 이론 교육 용역",
-      "org": "가천대학교 산학협력단",
+      "title": "드로그 장착 무인잠수정 진회수시험용 잠수함 모사 플랫폼 전장 및   제어계측모니터링 통합기능 및 성능 개선제작",
+      "org": "조달청 대전지방조달청",
       "demand_org": "",
-      "notice_no": "R26BK01611328",
-      "notice_date": "2026-07-01 14:28:21",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01611328&bidPbancOrd=000",
-      "budget": "30250000"
+      "notice_no": "R26BK01615676",
+      "notice_date": "2026-07-03 15:30:31",
+      "deadline": "2026-07-16 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615676&bidPbancOrd=000",
+      "budget": "897074000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "(주)넥스트크리에이티브_인공지능 기반의 내부 운영 체계 구축",
-      "org": "(주)한국능률협회컨설팅",
+      "title": "2026년 양돈 인공지능 번식관리 시스템 구축사업 모돈사료자동급이기 및 분만알리미 구입·설치의 건",
+      "org": "농업회사법인 신영축산(주)",
       "demand_org": "",
-      "notice_no": "R26BK01611502",
-      "notice_date": "2026-07-01 14:58:03",
-      "deadline": "2026-07-14 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01611502&bidPbancOrd=000",
-      "budget": "165000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 생성형 AI 서비스 지원사업 운영 사업자 선정",
-      "org": "한국장학재단",
-      "demand_org": "",
-      "notice_no": "R26BK01612348",
-      "notice_date": "2026-07-01 18:06:08",
-      "deadline": "2026-07-13 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612348&bidPbancOrd=000",
-      "budget": "9500000000"
+      "notice_no": "R26BK01616133",
+      "notice_date": "2026-07-03 15:38:46",
+      "deadline": "2026-07-09 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01616133&bidPbancOrd=000",
+      "budget": "926582000"
     },
     {
       "source": "나라장터",
@@ -192,7 +162,7 @@
       "demand_org": "",
       "notice_no": "R26BK01613395",
       "notice_date": "2026-07-02 13:43:51",
-      "deadline": "2026-07-03 12:00:00",
+      "deadline": "2026-07-03 18:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613395&bidPbancOrd=000",
       "budget": "82500000"
     },
@@ -232,6 +202,51 @@
       "scenario_ids": [
         "gen-ai"
       ],
+      "title": "유보통합 보육교사 맞춤형 연수혁신  AI 서비스 고도화",
+      "org": "조달청 서울지방조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01615298",
+      "notice_date": "2026-07-03 13:53:29",
+      "deadline": "2026-07-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615298&bidPbancOrd=000",
+      "budget": "425517200"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "AI 기반 적정공사비 산출을 위한 공사비 변경 LLM 서비스 프로토타입 개발",
+      "org": "한국건설기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01615793",
+      "notice_date": "2026-07-03 14:17:41",
+      "deadline": "2026-07-14 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615793&bidPbancOrd=000",
+      "budget": "78496985"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "직무능력은행 AI 서비스 도입 및 환경구축을 위한 ISMP 수립 사업",
+      "org": "조달청 부산지방조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01614363",
+      "notice_date": "2026-07-03 15:16:51",
+      "deadline": "2026-07-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614363&bidPbancOrd=000",
+      "budget": "302068060"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
       "title": "Chat 기반 RAG 시스템 구축에 필요한 Embedding 학습 및 Query Fine - tuning 연구",
       "org": "주식회사 에이피아이엔디",
       "demand_org": "",
@@ -247,13 +262,13 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "혁신융합대학(인공지능) 하계방학 중 교육환경개선 건축공사(본300, 본329호)",
+      "title": "혁신융합대학(인공지능) 하계방학 중 교육환경 개선 전기공사(본300, 본329)",
       "org": "영진전문대학교 산학협력단",
       "demand_org": "",
-      "notice_no": "R26BK01612400",
-      "notice_date": "2026-07-01 18:33:03",
+      "notice_no": "R26BK01612413",
+      "notice_date": "2026-07-02 09:36:23",
       "deadline": "2026-07-10 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612400&bidPbancOrd=000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612413&bidPbancOrd=001",
       "budget": ""
     },
     {
@@ -262,13 +277,13 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "혁신융합대학(인공지능) 하계방학 중 교육환경 개선 전기공사(본300, 본329)",
-      "org": "영진전문대학교 산학협력단",
+      "title": "서울인공지능고등학교 운동장 조성(인조잔디 축구장, 농구장) 공사 수의견적 제출 안내 공고",
+      "org": "서울특별시교육청 서울인공지능고등학교",
       "demand_org": "",
-      "notice_no": "R26BK01612413",
-      "notice_date": "2026-07-01 18:44:56",
-      "deadline": "2026-07-10 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612413&bidPbancOrd=000",
+      "notice_no": "R26BK01612606",
+      "notice_date": "2026-07-03 08:55:35",
+      "deadline": "2026-07-09 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612606&bidPbancOrd=000",
       "budget": ""
     }
   ]
