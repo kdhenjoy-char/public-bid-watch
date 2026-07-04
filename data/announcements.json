@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T23:54:31",
+  "generated_at": "2026-07-04T23:51:18",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 16,
+  "count": 9,
   "items": [
     {
       "source": "나라장터",
@@ -112,88 +112,13 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "미래산업과학고등학교 인공지능콘텐츠과 교육여행 위탁용역 입찰공고",
-      "org": "서울특별시교육청 미래산업과학고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01612671",
-      "notice_date": "2026-07-02 09:28:37",
-      "deadline": "2026-07-08 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612671&bidPbancOrd=000",
-      "budget": "52300000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 모델 생성을 위한 학습 영상 데이터 전처리 및 라벨링 연구",
-      "org": "한국식품연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01612543",
-      "notice_date": "2026-07-02 10:28:26",
-      "deadline": "2026-07-14 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612543&bidPbancOrd=000",
-      "budget": "44000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026학년도 하반기 미림마이스터고등학교 교육감 승인 인정도서(인공지능 영어) 개발 업체 선정",
-      "org": "서울특별시교육청 미림마이스터고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01613100",
-      "notice_date": "2026-07-02 12:11:02",
-      "deadline": "2026-07-14 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613100&bidPbancOrd=000",
-      "budget": "3090000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[RISE사업] 네이버클라우드 기반 생성형 AI 실무·프로젝트 교육 프로그램 운영 용역",
-      "org": "연세대학교 미래캠퍼스",
-      "demand_org": "",
-      "notice_no": "R26BK01613395",
-      "notice_date": "2026-07-02 13:43:51",
-      "deadline": "2026-07-03 18:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613395&bidPbancOrd=000",
-      "budget": "82500000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "반도체 데이터 및 예측 AI 통합 활용을 위한 LLM기반 AI Agent 서비스 시범 구축",
-      "org": "한국과학기술정보연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01613784",
-      "notice_date": "2026-07-02 15:05:40",
-      "deadline": "2026-07-06 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613784&bidPbancOrd=000",
-      "budget": "250000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
       "title": "음성인식기반 인공지능  의무기록 서비스 사업",
       "org": "부산대학교병원",
       "demand_org": "",
       "notice_no": "R26BK01613781",
-      "notice_date": "2026-07-02 16:01:00",
+      "notice_date": "2026-07-03 08:52:21",
       "deadline": "2026-08-12 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613781&bidPbancOrd=000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613781&bidPbancOrd=001",
       "budget": "283900000"
     },
     {
@@ -240,36 +165,6 @@
       "deadline": "2026-07-30 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614363&bidPbancOrd=000",
       "budget": "302068060"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "Chat 기반 RAG 시스템 구축에 필요한 Embedding 학습 및 Query Fine - tuning 연구",
-      "org": "주식회사 에이피아이엔디",
-      "demand_org": "",
-      "notice_no": "R26BK01613305",
-      "notice_date": "2026-07-02 13:35:42",
-      "deadline": "2026-07-10 17:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613305&bidPbancOrd=000",
-      "budget": "49500000"
-    },
-    {
-      "source": "나라장터",
-      "category": "공사",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "혁신융합대학(인공지능) 하계방학 중 교육환경 개선 전기공사(본300, 본329)",
-      "org": "영진전문대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01612413",
-      "notice_date": "2026-07-02 09:36:23",
-      "deadline": "2026-07-10 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612413&bidPbancOrd=001",
-      "budget": ""
     },
     {
       "source": "나라장터",
