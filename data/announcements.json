@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:58:43",
+  "generated_at": "2026-07-09T23:57:08",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,22 +44,52 @@
       ]
     }
   ],
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "서울과학기술대학교 산학협력단 연구장비(LLM 연계 온톨리지 기반 시뮬레이션 자동 생성용 전용 서버) 구매",
+      "org": "서울과학기술대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01624509",
+      "notice_date": "2026-07-09 09:37:09",
+      "deadline": "2026-07-15 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624509&bidPbancOrd=000",
+      "budget": "50000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "자율주행 가능 인공지능 전용 전시물품 구매 소액수의 견적제출 공고",
+      "org": "국립광주과학관",
+      "demand_org": "",
+      "notice_no": "R26BK01624381",
+      "notice_date": "2026-07-09 10:47:48",
+      "deadline": "2026-07-15 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624381&bidPbancOrd=000",
+      "budget": "26000000"
+    },
     {
       "source": "나라장터",
       "category": "물품",
       "scenario_ids": [
         "smart-factory"
       ],
-      "title": "[지역 주도형 AI 대전환 사업]AI 기반 협업 제조 최적화를 위한 코일 어셈블리 제조공정 자동화 및 품질 안정화 설비 구축(긴급공고)(최종 공고가 아닙니다.)",
-      "org": "(주)태원전장",
+      "title": "(기기)Simcenter Hypermesh 프로그램 임차",
+      "org": "오송첨단의료산업진흥재단",
       "demand_org": "",
-      "notice_no": "R26BK01619054",
-      "notice_date": "2026-07-07 09:04:19",
-      "deadline": "2026-07-20 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619054&bidPbancOrd=000",
-      "budget": "330000000"
+      "notice_no": "R26BK01624879",
+      "notice_date": "2026-07-09 11:14:41",
+      "deadline": "2026-07-20 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624879&bidPbancOrd=000",
+      "budget": "39276600"
     },
     {
       "source": "나라장터",
@@ -67,59 +97,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "(재)AI 에이전트 자동화 구현 워크스테이션 구매",
-      "org": "한국기계연구원",
+      "title": "인공지능 전시관람 개선을 위한 전시장비 구매 소액수의 견적제출 공고",
+      "org": "국립광주과학관",
       "demand_org": "",
-      "notice_no": "R26BK01620231",
-      "notice_date": "2026-07-07 11:32:51",
-      "deadline": "2026-07-14 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620231&bidPbancOrd=000",
-      "budget": "60000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "다중모델 생성형 AI 플랫폼 서비스 도입 용역",
-      "org": "조달청 광주지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01620173",
-      "notice_date": "2026-07-07 14:07:30",
-      "deadline": "2026-07-22 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620173&bidPbancOrd=000",
-      "budget": "131298000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "동물용의약품등의 급성 독성 예측을 위한 인공지능(AI)모델 개발·검증 및 급성독성 대체시험법 개발 연구",
-      "org": "조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01620533",
-      "notice_date": "2026-07-07 17:05:34",
-      "deadline": "2026-07-09 16:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620533&bidPbancOrd=000",
-      "budget": "4022310000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 서버 임차 구매",
-      "org": "중앙대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01621914",
-      "notice_date": "2026-07-07 22:52:41",
+      "notice_no": "R26BK01625911",
+      "notice_date": "2026-07-09 16:29:29",
       "deadline": "2026-07-15 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621914&bidPbancOrd=000",
-      "budget": "94792000"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625911&bidPbancOrd=000",
+      "budget": "42000000"
     },
     {
       "source": "나라장터",
@@ -180,6 +165,36 @@
       "deadline": "2026-07-21 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619527&bidPbancOrd=000",
       "budget": "228427045"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "(26F035-G) 軍 인사업무체계 RAG Agent 기술 적용 실증",
+      "org": "국방부 국군재정관리단",
+      "demand_org": "",
+      "notice_no": "R26BK01625929",
+      "notice_date": "2026-07-09 17:52:49",
+      "deadline": "2026-08-19 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625929&bidPbancOrd=000",
+      "budget": "1346000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "대내 생성형 AI 서비스 구축",
+      "org": "한국해외인프라도시개발지원공사",
+      "demand_org": "",
+      "notice_no": "R26BK01626217",
+      "notice_date": "2026-07-09 18:07:38",
+      "deadline": "2026-08-19 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626217&bidPbancOrd=000",
+      "budget": "1370000000"
     }
   ]
 }
