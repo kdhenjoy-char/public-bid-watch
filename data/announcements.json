@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:40:56",
+  "generated_at": "2026-07-12T23:40:41",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,82 +44,6 @@
       ]
     }
   ],
-  "count": 5,
-  "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "디지털트윈 실증 및 분석 장비 구입",
-      "org": "동서대학교산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01626618",
-      "notice_date": "2026-07-10 09:57:21",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626618&bidPbancOrd=000",
-      "budget": "100000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년도 실험실습기자재 확충사업 [인공지능 모델링 고성능 GPU 시스템] 구입",
-      "org": "조달청 충북지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01627126",
-      "notice_date": "2026-07-10 13:15:50",
-      "deadline": "2026-07-14 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627126&bidPbancOrd=000",
-      "budget": "172609600"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026학년도 하반기 미림마이스터고등학교 교육감 승인 인정도서(인공지능 영어) 개발 업체 선정",
-      "org": "서울특별시교육청 미림마이스터고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01613100",
-      "notice_date": "2026-07-10 13:25:42",
-      "deadline": "2026-07-14 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613100&bidPbancOrd=001",
-      "budget": "30900000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026학년도 하반기 미림마이스터고등학교 교육감 승인 인정도서(인공지능 영어) 개발 업체 선정",
-      "org": "서울특별시교육청 미림마이스터고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01627472",
-      "notice_date": "2026-07-10 14:27:51",
-      "deadline": "2026-07-21 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627472&bidPbancOrd=000",
-      "budget": "30900000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "온프레미스 생성형 AI 인프라 운영 환경 구축 (재공고)",
-      "org": "새마을금고중앙회",
-      "demand_org": "",
-      "notice_no": "R26BK01628181",
-      "notice_date": "2026-07-10 18:08:17",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628181&bidPbancOrd=000",
-      "budget": "25000000000"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
