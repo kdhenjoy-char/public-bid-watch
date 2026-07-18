@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:40:34",
+  "generated_at": "2026-07-18T23:39:57",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,128 +44,8 @@
       ]
     }
   ],
-  "count": 9,
+  "count": 1,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "그린스마트 메이커스페이스 공간구성을 위한 물품구입(AI융합 스마트팩토리 실습장치)",
-      "org": "경기도교육청 김포과학기술고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01622755",
-      "notice_date": "2026-07-16 11:32:37",
-      "deadline": "2026-07-28 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622755&bidPbancOrd=000",
-      "budget": "222930000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 실험실습기자재(인공지능 연산 그래픽카드 서버) 구매_도시공학과",
-      "org": "서울특별시 서울시립대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01636820",
-      "notice_date": "2026-07-16 14:36:50",
-      "deadline": "2026-07-16 16:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01636820&bidPbancOrd=000",
-      "budget": "49965300"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 실증용 GPU 서버 구매(리스) 사업",
-      "org": "국방부 국군재정관리단",
-      "demand_org": "",
-      "notice_no": "R26BK01637459",
-      "notice_date": "2026-07-16 15:51:35",
-      "deadline": "2026-08-06 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01637459&bidPbancOrd=000",
-      "budget": "2400000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 PIM인공지능반도체 R&D 기술교류회 기획운영",
-      "org": "조달청 대전지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01632692",
-      "notice_date": "2026-07-16 09:38:06",
-      "deadline": "2026-08-06 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01632692&bidPbancOrd=000",
-      "budget": "114285680"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 맞춤형 교수학습 플랫폼(AIEP) 연계 통합 포털 임차 및 계정 관리 용역 사업",
-      "org": "조달청 인천지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01634676",
-      "notice_date": "2026-07-16 10:36:25",
-      "deadline": "2026-07-29 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01634676&bidPbancOrd=000",
-      "budget": "163695320"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "가천대학교 AI부트캠프 사업 생성형 AI 에이전트 프로젝트 기반 실습 교육 용역",
-      "org": "가천대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01637329",
-      "notice_date": "2026-07-16 14:38:31",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01637329&bidPbancOrd=000",
-      "budget": "27500000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "스마트팩토리 기반 KAAV-II 창정비공장 추진방안 연구",
-      "org": "해병 제9691부대",
-      "demand_org": "",
-      "notice_no": "R26BK01637614",
-      "notice_date": "2026-07-16 15:45:02",
-      "deadline": "2026-07-28 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01637614&bidPbancOrd=000",
-      "budget": "32510000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "제1차 기후에너지환경부 인공지능 정보화 기본계획 수립",
-      "org": "기후에너지환경부",
-      "demand_org": "",
-      "notice_no": "R26BK01637715",
-      "notice_date": "2026-07-16 16:04:45",
-      "deadline": "2026-09-02 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01637715&bidPbancOrd=000",
-      "budget": "300000000"
-    },
     {
       "source": "나라장터",
       "category": "용역",
