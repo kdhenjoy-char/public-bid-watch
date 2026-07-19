@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T23:39:57",
+  "generated_at": "2026-07-19T23:44:18",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,22 +44,6 @@
       ]
     }
   ],
-  "count": 1,
-  "items": [
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 인공지능 연계 수학 콘텐츠 개발 용역",
-      "org": "한국과학창의재단",
-      "demand_org": "",
-      "notice_no": "R26BK01636477",
-      "notice_date": "2026-07-17 19:25:27",
-      "deadline": "2026-08-27 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01636477&bidPbancOrd=000",
-      "budget": "420000000"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
