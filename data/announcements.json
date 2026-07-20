@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:44:18",
+  "generated_at": "2026-07-20T23:45:08",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,6 +44,127 @@
       ]
     }
   ],
-  "count": 0,
-  "items": []
+  "count": 8,
+  "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "고성능 인공지능 가속기",
+      "org": "서강대학교산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01636050",
+      "notice_date": "2026-07-20 11:13:56",
+      "deadline": "2026-08-04 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01636050&bidPbancOrd=003",
+      "budget": "21302000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[지역 주도형 AI 대전환 사업]AI 기반 협업 제조 최적화를 위한 코일 어셈블리 제조공정 자동화 및 품질 안정화 설비 구축[긴급재공고]",
+      "org": "(주)태원전장",
+      "demand_org": "",
+      "notice_no": "R26BK01639337",
+      "notice_date": "2026-07-20 12:19:06",
+      "deadline": "2026-07-31 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01639337&bidPbancOrd=000",
+      "budget": "330000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 서울로봇인공지능과학관 유갓 스페이스 키트 구매",
+      "org": "서울특별시 서울시립과학관",
+      "demand_org": "",
+      "notice_no": "R26BK01638492",
+      "notice_date": "2026-07-20 14:29:35",
+      "deadline": "2026-07-20 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01638492&bidPbancOrd=000",
+      "budget": "11500000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[재공고](기기)Simcenter Hypermesh 프로그램 임차",
+      "org": "오송첨단의료산업진흥재단",
+      "demand_org": "",
+      "notice_no": "R26BK01640180",
+      "notice_date": "2026-07-20 15:29:08",
+      "deadline": "2026-07-28 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01640180&bidPbancOrd=000",
+      "budget": "39276600"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "해저 분리시스템 디지털트윈 다이내믹 임베드형 모델 개발",
+      "org": "한국지질자원연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01639035",
+      "notice_date": "2026-07-20 10:39:27",
+      "deadline": "2026-08-05 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01639035&bidPbancOrd=000",
+      "budget": "70000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026학년도 강원 생성형 AI기반 가상융합 콘텐츠 제작 전문인력 양성을 위한 AI-VFX 인증체계 개발 연구",
+      "org": "한림성심대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01639220",
+      "notice_date": "2026-07-20 11:15:17",
+      "deadline": "2026-07-31 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01639220&bidPbancOrd=000",
+      "budget": "30000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "초거대 제조AI 서비스 개발·실증사업 전용회선 구축·운영 사업자 선정",
+      "org": "주식회사 라임씨에스아이",
+      "demand_org": "",
+      "notice_no": "R26BK01639315",
+      "notice_date": "2026-07-20 12:45:21",
+      "deadline": "2026-07-31 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01639315&bidPbancOrd=000",
+      "budget": "165000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "공사",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "에너지·인공지능(AI) 융합 분야 개방형 혁신공간 구축 공사(건축)",
+      "org": "목포대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01638313",
+      "notice_date": "2026-07-20 16:23:48",
+      "deadline": "2026-07-28 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01638313&bidPbancOrd=000",
+      "budget": ""
+    }
+  ]
 }
