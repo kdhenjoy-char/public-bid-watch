@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T23:53:21",
+  "generated_at": "2026-07-23T23:46:51",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,83 +44,8 @@
       ]
     }
   ],
-  "count": 36,
+  "count": 39,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "축소형 DTQC 기반 스마트항만 디지털트윈 교육 실습 장비",
-      "org": "국립목포해양대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01642070",
-      "notice_date": "2026-07-21 13:17:21",
-      "deadline": "2026-07-22 11:30:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01642070&bidPbancOrd=000",
-      "budget": "84480000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 기반 디지털 트윈 상수관망 관제시스템 방화벽, 백본스위치구매",
-      "org": "주식회사 이룸기술",
-      "demand_org": "",
-      "notice_no": "R26BK01633836",
-      "notice_date": "2026-07-21 13:59:14",
-      "deadline": "2026-07-29 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01633836&bidPbancOrd=001",
-      "budget": "181500000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년도 실험실습기자재 확충사업_(일반_자체3) 인공지능소프트웨어학과 조립용블록 등 7종 구매",
-      "org": "국립한밭대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01642830",
-      "notice_date": "2026-07-21 15:36:23",
-      "deadline": "2026-07-29 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01642830&bidPbancOrd=000",
-      "budget": "63064600"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[RISE 1-3] 2026학년도 2학기 재학생 대상 생성형 AI 플랫폼 서비스 구입",
-      "org": "계명대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01643108",
-      "notice_date": "2026-07-21 16:46:16",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01643108&bidPbancOrd=000",
-      "budget": "298200000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 인지 성능 평가 장비",
-      "org": "조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01638869",
-      "notice_date": "2026-07-21 17:12:35",
-      "deadline": "2026-08-11 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01638869&bidPbancOrd=000",
-      "budget": "604870000"
-    },
     {
       "source": "나라장터",
       "category": "물품",
@@ -168,33 +93,49 @@
     },
     {
       "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "marine-robot"
-      ],
-      "title": "무인수상정 항해/항법 센서 데이터 학습 시스템",
-      "org": "국방과학연구소",
-      "demand_org": "",
-      "notice_no": "R26BK01642380",
-      "notice_date": "2026-07-21 14:38:21",
-      "deadline": "2026-09-01 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01642380&bidPbancOrd=000",
-      "budget": "656800000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "인공지능 글로벌 행사(K-AI 서밋) ",
-      "org": "한국지능정보사회진흥원",
+      "title": "AI 에이전트 개발 도구(AI 가속기) 구매",
+      "org": "한국건설기술연구원",
       "demand_org": "",
-      "notice_no": "R26BK01643534",
-      "notice_date": "2026-07-21 19:27:35",
-      "deadline": "2026-07-22 16:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01643534&bidPbancOrd=000",
-      "budget": "349870429"
+      "notice_no": "R26BK01647483",
+      "notice_date": "2026-07-23 17:17:55",
+      "deadline": "2026-08-03 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01647483&bidPbancOrd=000",
+      "budget": "44374000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory",
+        "gen-ai"
+      ],
+      "title": "인공지능 기반 디지털트윈 상수관망 관제시스템 방화벽 백본스위치",
+      "org": "주식회사 이룸기술",
+      "demand_org": "",
+      "notice_no": "R26BK01648102",
+      "notice_date": "2026-07-23 18:29:29",
+      "deadline": "2026-07-31 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01648102&bidPbancOrd=000",
+      "budget": "166760000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "marine-robot"
+      ],
+      "title": "연구지원실 수중로봇팔용 방수구동기 모듈 설계 및 제작",
+      "org": "계명대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01648234",
+      "notice_date": "2026-07-23 20:18:47",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01648234&bidPbancOrd=000",
+      "budget": "39501000"
     },
     {
       "source": "나라장터",
@@ -260,6 +201,66 @@
       "source": "나라장터",
       "category": "용역",
       "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "철의장제조공정디지털트윈센터 개소식",
+      "org": "한국생산기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01647474",
+      "notice_date": "2026-07-23 15:28:24",
+      "deadline": "2026-08-03 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01647474&bidPbancOrd=000",
+      "budget": "49622100"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "HTDream 인공지능(BION GPT) 서비스 고도화 사업",
+      "org": "한국보건산업진흥원",
+      "demand_org": "",
+      "notice_no": "R26BK01647607",
+      "notice_date": "2026-07-23 15:54:46",
+      "deadline": "2026-07-24 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01647607&bidPbancOrd=000",
+      "budget": "100000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "26-N-LLM 및 Physical AI활용 견시능력 증강 전투실험",
+      "org": "국방부 국군재정관리단",
+      "demand_org": "",
+      "notice_no": "R26BK01647859",
+      "notice_date": "2026-07-23 17:01:05",
+      "deadline": "2026-08-04 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01647859&bidPbancOrd=000",
+      "budget": "250000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "차세대 해양극지 기후예측시스템 구축을 위한 해양-빙권 결함모델 고도화 및 인공지능 기반 예측기술 활용방안 마련 연구",
+      "org": "한국해양과학기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01647961",
+      "notice_date": "2026-07-23 17:29:46",
+      "deadline": "2026-08-03 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01647961&bidPbancOrd=000",
+      "budget": "170000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
         "gen-ai"
       ],
       "title": "인공지능 기반 디지털 트윈 상수관망 관제시스템 서버구매",
@@ -288,6 +289,21 @@
     },
     {
       "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 기반 디지털 트윈 상수관망 관제시스템 서버구입",
+      "org": "주식회사 이룸기술",
+      "demand_org": "",
+      "notice_no": "R26BK01648084",
+      "notice_date": "2026-07-23 18:06:26",
+      "deadline": "2026-08-10 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01648084&bidPbancOrd=000",
+      "budget": "1236730000"
+    },
+    {
+      "source": "나라장터",
       "category": "공사",
       "scenario_ids": [
         "gen-ai"
@@ -299,6 +315,36 @@
       "notice_date": "2026-07-22 12:48:30",
       "deadline": "2026-07-28 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01643590&bidPbancOrd=000",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,2026,과학기술정보통신부,정보통신산업진흥원,AI,사이버보안,AI 파운데이션,인공지능, AI기술,컨소시엄",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "특화 인공지능 파운데이션 모델 개발(사이버보안분야) 사업 공고",
+      "org": "과학기술정보통신부",
+      "demand_org": "정보통신산업진흥원",
+      "notice_no": "PBLN_000000000124664",
+      "notice_date": "2026-07-23 13:58:40",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124664",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,2026,경북대학교 스타트업지원센터,중소벤처기업부,대구광역시,창업진흥원,크리에이티브팩토리,제조현장,AI,제품개발,제품검증,시제품,소모성재료,기술사업화,모빌리티,ICT,의료,헬스",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "2026년 제조전문형 메이커 스페이스 사업 제조 AI 기술 사업화 지원 수혜기업 모집 공고",
+      "org": "중소벤처기업부",
+      "demand_org": "경북대학교 스타트업지원센터",
+      "notice_no": "PBLN_000000000124637",
+      "notice_date": "2026-07-23 10:42:50",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124637",
       "budget": ""
     },
     {
