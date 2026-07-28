@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:53:28",
+  "generated_at": "2026-07-28T23:48:54",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 28,
+  "count": 36,
   "items": [
     {
       "source": "나라장터",
@@ -138,6 +138,51 @@
     },
     {
       "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "디지털트윈 응용 물류공정 작업지원 로봇 제어 시뮬레이터",
+      "org": "한국생산기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01654261",
+      "notice_date": "2026-07-28 14:02:23",
+      "deadline": "2026-08-05 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654261&bidPbancOrd=000",
+      "budget": "26950000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능(AI) 데이터 분석용 워크스테이션 장비 구매",
+      "org": "국립낙동강생물자원관",
+      "demand_org": "",
+      "notice_no": "R26BK01654848",
+      "notice_date": "2026-07-28 16:18:39",
+      "deadline": "2026-08-03 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654848&bidPbancOrd=000",
+      "budget": "130770000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "수산물 산지가공시설사업 인공지능 고감도 센서 X-RAY 이물질검출기(대행)",
+      "org": "경상남도 통영시",
+      "demand_org": "",
+      "notice_no": "R26BK01654589",
+      "notice_date": "2026-07-28 17:10:36",
+      "deadline": "2026-08-05 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654589&bidPbancOrd=000",
+      "budget": "128853000"
+    },
+    {
+      "source": "나라장터",
       "category": "용역",
       "scenario_ids": [
         "gen-ai"
@@ -195,6 +240,96 @@
       "deadline": "2026-08-07 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01645564&bidPbancOrd=000",
       "budget": "88000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "스마트팩토리 교육용 콘텐츠 개발 용역",
+      "org": "국립한밭대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01654224",
+      "notice_date": "2026-07-28 14:45:49",
+      "deadline": "2026-08-10 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654224&bidPbancOrd=000",
+      "budget": "50000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "사천 스마트그린산단 통합관제센터 구축사업(2차년도) 디지털트윈 3D 시스템 구축용역",
+      "org": "한국화학융합시험연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01654454",
+      "notice_date": "2026-07-28 14:58:34",
+      "deadline": "2026-08-11 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654454&bidPbancOrd=000",
+      "budget": "409600000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "음성기반 인공지능 의무기록 서비스 구독",
+      "org": "화순전남대학교병원",
+      "demand_org": "",
+      "notice_no": "R26BK01654001",
+      "notice_date": "2026-07-28 15:20:10",
+      "deadline": "2026-07-29 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654001&bidPbancOrd=000",
+      "budget": "141100000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026 서울로봇인공지능과학관 로봇·AI 팝업 전시 연출 용역",
+      "org": "서울특별시 서울시립과학관",
+      "demand_org": "",
+      "notice_no": "R26BK01655364",
+      "notice_date": "2026-07-28 20:19:49",
+      "deadline": "2026-07-29 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01655364&bidPbancOrd=000",
+      "budget": "21500001"
+    },
+    {
+      "source": "기업마당",
+      "category": "경영,강원,스마트공장확산,스마트공장보급,2026,지역특화형,강원특별자치도,정보통신기술,스마트공장구축,제조공정,식품,ICT,강원테크노파크,바이오헬스,스마트공장,중소기업기술정보진흥원,중소벤처기업부,중소기업,중견기업,제조기업",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[강원] 2026년 2차 지역특화형(바이오헬스ㆍ식품) 스마트공장 구축사업 공고",
+      "org": "강원특별자치도",
+      "demand_org": "강원테크노파크",
+      "notice_no": "PBLN_000000000124816",
+      "notice_date": "2026-07-28 13:45:22",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124816",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,충북,2026,융합바이오,진천군,음성군,충주시,충북테크노파크,충청북도,중소기업기술정보진흥원,중소벤처기업부,중견기업,중소기업,제조업,의료,바이오,화장품,식품,제지,제조AI현장,제조AI,실증",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[충북] 2026년 제조 AI 현장 적용 지원 사업 수혜기업 모집 공고",
+      "org": "중소벤처기업부",
+      "demand_org": "충북테크노파크",
+      "notice_no": "PBLN_000000000124808",
+      "notice_date": "2026-07-28 13:25:27",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124808",
+      "budget": ""
     },
     {
       "source": "기업마당",
@@ -269,21 +404,6 @@
       "notice_date": "2026-07-16 13:12:11",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124433",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,전남광주,전남광주통합특별시,AI융합지능형농업,2026,AI기업,전남정보문화산업진흥원,정보통신업,농업,SW,중견,ICT,시제품제작,AI,중견기업,중소기업,기술고도화,사업화",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[전남광주] 2026년 5차 인공지능 기술 고도화ㆍ사업화 지원사업 모집 공고(AI융합 지능형 농업 생태계 구축 사업)",
-      "org": "전남광주통합특별시",
-      "demand_org": "전남정보문화산업진흥원",
-      "notice_no": "PBLN_000000000124400",
-      "notice_date": "2026-07-15 14:38:14",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124400",
       "budget": ""
     },
     {
