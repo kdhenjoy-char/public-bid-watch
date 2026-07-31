@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:52:27",
+  "generated_at": "2026-07-31T23:52:12",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,143 +44,8 @@
       ]
     }
   ],
-  "count": 35,
+  "count": 28,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "강원 곤충산업 거점단지 조성사업 스마트팩토리팜 공기압축기 구매·설치",
-      "org": "한국농어촌공사 강원지역본부 홍천.춘천지사",
-      "demand_org": "",
-      "notice_no": "R26BK01656259",
-      "notice_date": "2026-07-29 12:04:41",
-      "deadline": "2026-07-29 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01656259&bidPbancOrd=000",
-      "budget": "22000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "에너지 도메인 AI 에이전트 개발·실증용 초고용량 GPU 서버 2TB",
-      "org": "한국에너지기술연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01656277",
-      "notice_date": "2026-07-29 12:16:45",
-      "deadline": "2026-08-06 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01656277&bidPbancOrd=000",
-      "budget": "1240360000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "실험실습기자재(스마트공장 제어 6축 다관절 로봇 시스템 외 1종) 구매",
-      "org": "사단법인 전북벤처산업발전협의회",
-      "demand_org": "",
-      "notice_no": "R26BK01654623",
-      "notice_date": "2026-07-29 15:13:36",
-      "deadline": "2026-08-04 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01654623&bidPbancOrd=000",
-      "budget": "280000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "GVC 이슈 사전감지 모델 실증을 위한 모듈 및 AI 에이전트 개발",
-      "org": "한국과학기술정보연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01655508",
-      "notice_date": "2026-07-29 09:05:50",
-      "deadline": "2026-08-11 10:30:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01655508&bidPbancOrd=000",
-      "budget": "50000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "AI 서비스 기반 통신 인프라 고도화",
-      "org": "주택도시보증공사",
-      "demand_org": "",
-      "notice_no": "R26BK01655958",
-      "notice_date": "2026-07-29 10:43:29",
-      "deadline": "2026-08-10 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01655958&bidPbancOrd=000",
-      "budget": "404786000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "크메르어 기반 AI챗봇 시범 적용을 통한 확산전략수립 및 공공부문 데이터 거버넌스 역량강화",
-      "org": "조달청 대구지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01653430",
-      "notice_date": "2026-07-29 11:19:51",
-      "deadline": "2026-08-13 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01653430&bidPbancOrd=000",
-      "budget": "312903547"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "출판산업 인공지능(AI) 활용 현황 및 대응 전략 연구 용역",
-      "org": "한국출판문화산업진흥원",
-      "demand_org": "",
-      "notice_no": "R26BK01655589",
-      "notice_date": "2026-07-29 14:19:01",
-      "deadline": "2026-08-13 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01655589&bidPbancOrd=000",
-      "budget": "72000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 AID 사업 생성형 AI 활용 플랫폼 구축 사업 입찰 공고",
-      "org": "부천대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01657056",
-      "notice_date": "2026-07-29 16:12:40",
-      "deadline": "2026-08-10 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657056&bidPbancOrd=000",
-      "budget": "165000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "소상공인 상세페이지 제작지원을 위한 생성형 AI 콘텐츠 제작 서비스 공급 및 운영 용역",
-      "org": "주식회사 홀릭디자인",
-      "demand_org": "",
-      "notice_no": "R26BK01657206",
-      "notice_date": "2026-07-29 16:57:37",
-      "deadline": "2026-08-10 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657206&bidPbancOrd=000",
-      "budget": "39160000"
-    },
     {
       "source": "나라장터",
       "category": "용역",
@@ -225,6 +90,66 @@
       "deadline": "2026-08-11 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657521&bidPbancOrd=000",
       "budget": "79959038"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 기반 식물검역 챗봇(PQ봇) 시스템 구축",
+      "org": "조달청 대구지방조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01647005",
+      "notice_date": "2026-07-31 11:23:04",
+      "deadline": "2026-08-13 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01647005&bidPbancOrd=000",
+      "budget": "217138400"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "음성기반 인공지능 의무기록 서비스 구독",
+      "org": "화순전남대학교병원",
+      "demand_org": "",
+      "notice_no": "R26BK01661237",
+      "notice_date": "2026-07-31 17:15:22",
+      "deadline": "2026-08-03 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01661237&bidPbancOrd=000",
+      "budget": "141100000"
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,국산AI,특화 AI,공공AI에이전트,범용,AI 챗봇,모두의AI,AI에이전트,2026,AI서비스,GPU,정부지원,정보통신산업진흥원,과학기술정보통신부",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+      "org": "과학기술정보통신부",
+      "demand_org": "정보통신산업진흥원",
+      "notice_no": "PBLN_000000000124976",
+      "notice_date": "2026-07-31 15:09:52",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124976",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,배터리팩케이스,냉각플레이트,워터펌프,산업통상부,2026,컴프레셔,전동화부품,시험평가인증,열교환기,한국기계연구원,기술사업화,한국자동차연구원,밸브,기술지도,시제품제작",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "2026년 EV플랫폼 연계부품 XRㆍ디지털트윈 기술지원 기반구축 사업 기업지원 통합 공고",
+      "org": "산업통상부",
+      "demand_org": "한국기계연구원",
+      "notice_no": "PBLN_000000000124975",
+      "notice_date": "2026-07-31 15:00:42",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124975",
+      "budget": ""
     },
     {
       "source": "기업마당",
@@ -359,36 +284,6 @@
       "notice_date": "2026-07-23 10:42:50",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124637",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경영,인천,DX견학공장,2026,홍보자료,설비,기자재,카탈로그,시스템,영상,인건비,유지보수,인천테크노파크,인천광역시,스마트공장,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[인천] 2026년 스마트공장 DX견학공장 기업 모집 공고",
-      "org": "인천광역시",
-      "demand_org": "인천테크노파크",
-      "notice_no": "PBLN_000000000124575",
-      "notice_date": "2026-07-22 10:27:57",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124575",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "내수,경북,2026,홍보콘텐츠,홍보영상,포항시,온라인플랫폼,포항테크노파크,지식기반서비스업,벤처기업,인공지능,AI,경상북도,제조업,콘텐츠,중소기업",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[경북] 포항시 2026년 인공지능(AI) 기반 중소기업 홍보콘텐츠 제작 지원사업 참여기업 모집 공고",
-      "org": "경상북도",
-      "demand_org": "포항테크노파크",
-      "notice_no": "PBLN_000000000124448",
-      "notice_date": "2026-07-16 14:02:35",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124448",
       "budget": ""
     },
     {
