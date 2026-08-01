@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:52:12",
+  "generated_at": "2026-08-01T23:46:24",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,53 +44,8 @@
       ]
     }
   ],
-  "count": 28,
+  "count": 25,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "생성형 AI 플랫폼 서비스 고도화 2차 구축사업 감리 용역",
-      "org": "조달청 강원지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01650854",
-      "notice_date": "2026-07-30 10:00:10",
-      "deadline": "2026-08-07 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01650854&bidPbancOrd=001",
-      "budget": "211995760"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "생성형 AI 플랫폼 서비스 고도화 2차 구축사업 감리 용역",
-      "org": "조달청 강원지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01657906",
-      "notice_date": "2026-07-30 10:34:08",
-      "deadline": "2026-08-11 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657906&bidPbancOrd=000",
-      "budget": "211995760"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 인공지능 맞춤형 교수학습 플랫폼 실무자 역량 강화",
-      "org": "한국지능정보사회진흥원",
-      "demand_org": "",
-      "notice_no": "R26BK01657521",
-      "notice_date": "2026-07-30 17:19:55",
-      "deadline": "2026-08-11 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657521&bidPbancOrd=000",
-      "budget": "79959038"
-    },
     {
       "source": "나라장터",
       "category": "용역",
