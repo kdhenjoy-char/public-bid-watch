@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:40:55",
+  "generated_at": "2026-08-07T23:24:00",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 34,
+  "count": 37,
   "items": [
     {
       "source": "나라장터",
@@ -105,6 +105,21 @@
       "deadline": "2026-08-19 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01671418&bidPbancOrd=000",
       "budget": "100000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년도 실험실습기자재 확충사업_(일반_자체3) 인공지능소프트웨어학과 조립용블록 등 7종 구매",
+      "org": "국립한밭대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01672676",
+      "notice_date": "2026-08-07 17:42:20",
+      "deadline": "2026-08-18 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672676&bidPbancOrd=000",
+      "budget": "63064600"
     },
     {
       "source": "나라장터",
@@ -212,6 +227,126 @@
       "budget": "44000000"
     },
     {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[대학혁신] 2026학년도 대구대학교 AI학사 챗봇 개인화 연동 고도화 사업",
+      "org": "대구대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01671577",
+      "notice_date": "2026-08-07 11:22:36",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01671577&bidPbancOrd=000",
+      "budget": "33000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "소상공인 상세페이지 제작지원을 위한 생성형 AI 콘텐츠 제작 서비스 공급 및 운영 용역",
+      "org": "주식회사 홀릭디자인",
+      "demand_org": "",
+      "notice_no": "R26BK01657206",
+      "notice_date": "2026-08-07 15:56:08",
+      "deadline": "2026-08-12 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657206&bidPbancOrd=001",
+      "budget": "39160000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "실감콘텐츠 핵심원천기술개발 사업(R&D) 디지털트윈 기반 AI 학습데이터 구축 용역",
+      "org": "인천테크노파크",
+      "demand_org": "",
+      "notice_no": "R26BK01672393",
+      "notice_date": "2026-08-07 16:25:10",
+      "deadline": "2026-08-20 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672393&bidPbancOrd=000",
+      "budget": "163300000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년도 RnD 특화 LLM 성능 개선과 NTIS IRIS AI 서비스 고도화 위탁감리 사업",
+      "org": "한국과학기술정보연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01672619",
+      "notice_date": "2026-08-07 17:24:13",
+      "deadline": "2026-08-18 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672619&bidPbancOrd=000",
+      "budget": "120000000"
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,수출,경영,전남광주,충남,2026,전남광주통합특별시,광주테크노파크,전남대학교산학협력단,전남대학교병원,건양대학교산학협력단,범부처통합헬스케어협회,한국광융합산업진흥회,중소기업,중견기업,충청남도,뷰티,인공지능,헬스케어,시제품제작,특허,사용성평가,신뢰성평가,콘텐츠제작",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[전남광주ㆍ충남] 2026년 인공지능 맞춤형 뷰티기기 고도화 글로벌화 지원사업 기업지원 통합 모집 공고(바이오산업 개방형 생태계 조성 촉진 사업)",
+      "org": "전남광주통합특별시",
+      "demand_org": "광주테크노파크",
+      "notice_no": "PBLN_000000000125226",
+      "notice_date": "2026-08-07 13:35:39",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125226",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "경영,충남,안전보건시스템,가공자동화,실시간정보공유,2026,중대재해예방,물류자동화,ESG경영,디지털화,생산시스템,ICT,스마트공장,충남테크노파크,충청남도",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[충남] 2026년 3차 소기업형 스마트공장 구축 지원사업 공고",
+      "org": "충청남도",
+      "demand_org": "충남테크노파크",
+      "notice_no": "PBLN_000000000125224",
+      "notice_date": "2026-08-07 13:25:57",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125224",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,경영,인천,DX견학공장,2026,홍보자료,설비,기자재,카탈로그,시스템,영상,인건비,유지보수,인천테크노파크,인천광역시,스마트공장,중견기업,중소기업",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[인천] 2026년 스마트공장 DX견학공장 기업 모집 연장 공고",
+      "org": "인천광역시",
+      "demand_org": "인천테크노파크",
+      "notice_no": "PBLN_000000000125214",
+      "notice_date": "2026-08-07 11:17:49",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125214",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "수출,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,2026,중소벤처기업부,한국인공지능소프트웨어산업협회,대중소기업농어협력재단,태국,아세안,게임전시회,네트워킹,행사,중소기업,게임콘텐츠,게임산업,AI,VR,AR,밋업,사전매칭,클라우드",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "국내 게임산업 해외 진출 아세안 최대규모 2026 Gamescom Asia x Thailand Game Show 전시 공동관 및  현지 네트워킹 행사 참여기업 모집 공고",
+      "org": "중소벤처기업부",
+      "demand_org": "한국인공지능소프트웨어산업협회",
+      "notice_no": "PBLN_000000000125213",
+      "notice_date": "2026-08-07 11:14:47",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125213",
+      "budget": ""
+    },
+    {
       "source": "기업마당",
       "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,국산AI,특화 AI,공공AI에이전트,범용,AI 챗봇,모두의AI,AI에이전트,2026,AI서비스,GPU,정부지원,정보통신산업진흥원,과학기술정보통신부",
       "scenario_ids": [
@@ -239,21 +374,6 @@
       "notice_date": "2026-07-31 15:00:42",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124975",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "경영,부산,2026,부산정보산업진흥원,중소기업,게임개발,인디게임,콘텐츠,인공지능,AX,AI,부산광역시,게임콘텐츠,기술컨설팅,AI플랫폼",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[부산] 2026년 게임 개발 인공지능 전환(AX) 지원사업 모집 공고",
-      "org": "부산광역시",
-      "demand_org": "부산정보산업진흥원",
-      "notice_no": "PBLN_000000000124888",
-      "notice_date": "2026-07-30 09:57:44",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124888",
       "budget": ""
     },
     {
@@ -303,21 +423,6 @@
     },
     {
       "source": "기업마당",
-      "category": "기술,경남,산업통상부,2026,기계분야,한국전자기술연구원,방산분야,방산,디지털전환,DX,창원시,경상남도,기계,제조업,중견기업,중소기업,확산기술,재료구매",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경남] 창원시 2026년 지역 제조기업 대상 제조 디지털전환(DX) 확산기술 지원사업 추가 모집 재공고",
-      "org": "산업통상부",
-      "demand_org": "한국전자기술연구원",
-      "notice_no": "PBLN_000000000124857",
-      "notice_date": "2026-07-29 11:22:57",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124857",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
       "category": "경영,강원,스마트공장확산,스마트공장보급,2026,지역특화형,강원특별자치도,정보통신기술,스마트공장구축,제조공정,식품,ICT,강원테크노파크,바이오헬스,스마트공장,중소기업기술정보진흥원,중소벤처기업부,중소기업,중견기업,제조기업",
       "scenario_ids": [
         "smart-factory"
@@ -363,21 +468,6 @@
     },
     {
       "source": "기업마당",
-      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,2026,경북대학교 스타트업지원센터,중소벤처기업부,대구광역시,창업진흥원,크리에이티브팩토리,제조현장,AI,제품개발,제품검증,시제품,소모성재료,기술사업화,모빌리티,ICT,의료,헬스",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2026년 제조전문형 메이커 스페이스 사업 제조 AI 기술 사업화 지원 수혜기업 모집 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "경북대학교 스타트업지원센터",
-      "notice_no": "PBLN_000000000124637",
-      "notice_date": "2026-07-23 10:42:50",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124637",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
       "category": "기술,전남광주,광주정보문화산업진흥원,전남광주통합특별시,2026,중소기업,중견기업,AI,SW,ICT,지능형농업,광주광역시,AI융합지능형농업,기술고도화,신뢰성평가인증,신뢰성평가,SW품질평가,데이터품질평가,시험평가인증,AI신뢰성인증",
       "scenario_ids": [
         "gen-ai"
@@ -389,36 +479,6 @@
       "notice_date": "2026-07-16 13:12:11",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124433",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경영,경남,AI 도입,AI 실증,데이터 전처리,AI 교육,AX 전략 수립,경남도,2026,AX,소성,정밀기계,금형,한국전자기술연구원,방산,항공,PoC,김해시,창원시,경상남도,제조기업,인공지능,중견기업,중소기업",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[경남] 2026년 산업 인공지능(AI) 전환 및 확산기반조성 사업 AX 미니프로젝트 실증 수요기업 추가 모집 공고",
-      "org": "경상남도",
-      "demand_org": "한국전자기술연구원",
-      "notice_no": "PBLN_000000000124387",
-      "notice_date": "2026-07-15 13:40:38",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124387",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,경영,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,원주의료기기산업진흥원,2026,계약체결,항공임,교통비,강원의료기기전시회,바이어초청,마케팅,해외바이어",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "제22회 강원의료기기전시회(GMES 2026) 국내ㆍ외 바이어 초청 지원사업 3차 신청 공고",
-      "org": "산업통상부",
-      "demand_org": "원주의료기기산업진흥원",
-      "notice_no": "PBLN_000000000124371",
-      "notice_date": "2026-07-15 11:22:20",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124371",
       "budget": ""
     },
     {
@@ -449,21 +509,6 @@
       "notice_date": "2026-07-10 14:10:10",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124248",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,전북,시험분석장비,2026,전북특별자치도,복합소재,탄소섬유,항공우주,ECO융합섬유연구원,미래모빌리티,방산,시험,에너지,평가,인증,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[전북] 2026년 자율형 제조 AI 활용 탄소복합재 순환시스템 기반구축사업 수혜기업 모집 공고 ",
-      "org": "전북특별자치도",
-      "demand_org": "ECO융합섬유연구원",
-      "notice_no": "PBLN_000000000124149",
-      "notice_date": "2026-07-09 10:21:29",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124149",
       "budget": ""
     },
     {
