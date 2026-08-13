@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:29:23",
+  "generated_at": "2026-08-13T23:30:35",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,98 +44,8 @@
       ]
     }
   ],
-  "count": 38,
+  "count": 32,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 인지 성능 평가 장비",
-      "org": "조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01676498",
-      "notice_date": "2026-08-11 13:56:41",
-      "deadline": "2026-08-25 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676498&bidPbancOrd=000",
-      "budget": "604870000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "화학 인공지능 6세대 1CPU 서버",
-      "org": "광주과학기술원",
-      "demand_org": "",
-      "notice_no": "R26BK01677472",
-      "notice_date": "2026-08-11 16:45:08",
-      "deadline": "2026-08-20 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677472&bidPbancOrd=000",
-      "budget": "86350000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[연구비품] Cell Bank Storage System 구매",
-      "org": "국립암센터",
-      "demand_org": "",
-      "notice_no": "R26BK01677225",
-      "notice_date": "2026-08-11 16:50:31",
-      "deadline": "2026-08-19 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677225&bidPbancOrd=000",
-      "budget": "41690000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 서비스 구축을 위한 GPU 서버 구매",
-      "org": "조달청 대구지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01673632",
-      "notice_date": "2026-08-11 17:03:03",
-      "deadline": "2026-09-02 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673632&bidPbancOrd=000",
-      "budget": "493699470"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "행정용 AI 서비스 운영을 위한 자체 GPU 기반 인프라 구축",
-      "org": "조달청 서울지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01677453",
-      "notice_date": "2026-08-11 17:19:14",
-      "deadline": "2026-08-12 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677453&bidPbancOrd=000",
-      "budget": "299567200"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "숭의여자대학교 Alan Agentic AI 서비스라이선스 구매",
-      "org": "숭의여자대학 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01669501",
-      "notice_date": "2026-08-11 18:15:40",
-      "deadline": "2026-08-19 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669501&bidPbancOrd=000",
-      "budget": "45000000"
-    },
     {
       "source": "나라장터",
       "category": "물품",
@@ -168,93 +78,78 @@
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
-        "gen-ai"
+        "smart-factory"
       ],
-      "title": "초거대 제조AI 서비스 개발·실증사업 무선통신망 보안 시스템 설치 공사",
-      "org": "주식회사 라임씨에스아이",
+      "title": "두원공업고등학교 학과재구조화에 따른 기자재 (스마트공장반도체이송장비) 구매공고",
+      "org": "경기도교육청 두원공업고등학교",
       "demand_org": "",
-      "notice_no": "R26BK01675469",
-      "notice_date": "2026-08-11 04:03:23",
-      "deadline": "2026-08-25 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675469&bidPbancOrd=000",
-      "budget": "99000000"
+      "notice_no": "R26BK01680552",
+      "notice_date": "2026-08-13 10:16:22",
+      "deadline": "2026-09-03 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680552&bidPbancOrd=000",
+      "budget": "120000000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
-        "gen-ai"
+        "smart-factory"
       ],
-      "title": "‘26년 콘텐츠 제작지원사업 생성형 AI 프로그램 구독권 공급 용역",
-      "org": "주식회사 레드브릭스",
+      "title": "2026학년도 경북기계금속고등학교 협약형특성화고 운영 기자재 구입 (스마트공장 실습장비)",
+      "org": "경상북도교육청 경북기계금속고등학교",
       "demand_org": "",
-      "notice_no": "R26BK01675718",
-      "notice_date": "2026-08-11 09:51:27",
-      "deadline": "2026-08-24 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675718&bidPbancOrd=000",
-      "budget": "57420000"
+      "notice_no": "R26BK01680061",
+      "notice_date": "2026-08-13 10:55:11",
+      "deadline": "2026-09-03 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680061&bidPbancOrd=000",
+      "budget": "521730000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "인공지능 맞춤형 교수학습 플랫폼(AIEP) 연계 통합 포털 임차 및 계정 관리 용역 사업",
-      "org": "조달청 인천지방조달청",
+      "title": "섬유 전문지식 생성형 AI 구축 및 활용을 위한 개발서버 GPU 업그레이드",
+      "org": "(주)아이씨엔아이티",
       "demand_org": "",
-      "notice_no": "R26BK01675207",
-      "notice_date": "2026-08-11 11:27:54",
-      "deadline": "2026-08-14 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675207&bidPbancOrd=000",
-      "budget": "163695320"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[대학혁신] 2026학년도 대구대학교 AI학사 챗봇 개인화 연동 고도화 사업",
-      "org": "대구대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01671577",
-      "notice_date": "2026-08-11 11:46:24",
+      "notice_no": "R26BK01681685",
+      "notice_date": "2026-08-13 16:05:56",
       "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01671577&bidPbancOrd=001",
-      "budget": "33000000"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01681685&bidPbancOrd=000",
+      "budget": "71500000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "다중 LLM 지원 생성형 AI플랫폼 도입 업체 선정",
-      "org": "인하대학교 산학협력단",
+      "title": "섬유 전문지식 생성형 AI 구축 및 활용을 위한 LLM 개발서버 업그레이드",
+      "org": "(주)아이씨엔아이티",
       "demand_org": "",
-      "notice_no": "R26BK01676191",
-      "notice_date": "2026-08-11 14:10:17",
+      "notice_no": "R26BK01681730",
+      "notice_date": "2026-08-13 16:07:05",
       "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676191&bidPbancOrd=000",
-      "budget": "110000000"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01681730&bidPbancOrd=000",
+      "budget": "93500000"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
-        "gen-ai"
+        "marine-robot"
       ],
-      "title": "인공지능 신뢰성 검증 평가방안 구축 용역",
-      "org": "한국정보통신기술협회",
+      "title": "연구지원실 수중로봇팔용 방수구동기 모듈 설계 및 제작",
+      "org": "계명대학교 산학협력단",
       "demand_org": "",
-      "notice_no": "R26BK01676931",
-      "notice_date": "2026-08-11 14:59:23",
-      "deadline": "2026-08-26 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676931&bidPbancOrd=000",
-      "budget": "300000000"
+      "notice_no": "R26BK01682316",
+      "notice_date": "2026-08-13 19:07:48",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682316&bidPbancOrd=000",
+      "budget": "39501000"
     },
     {
       "source": "나라장터",
@@ -305,16 +200,46 @@
       "source": "나라장터",
       "category": "용역",
       "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "해저 분리시스템 디지털트윈 다이내믹 임베드형 모델 개발",
+      "org": "한국지질자원연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01680516",
+      "notice_date": "2026-08-13 10:00:53",
+      "deadline": "2026-08-27 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680516&bidPbancOrd=000",
+      "budget": "70000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
         "gen-ai"
       ],
-      "title": "인공지능 기반 디지털 트윈 상수관망 관제시스템 서버구입",
-      "org": "주식회사 이룸기술",
+      "title": "인공지능 활용 서비스 사례 발굴·확산(디자인·제작)",
+      "org": "한국지역정보개발원",
       "demand_org": "",
-      "notice_no": "R26BK01675969",
-      "notice_date": "2026-08-11 10:44:29",
-      "deadline": "2026-08-18 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675969&bidPbancOrd=000",
-      "budget": "1236730000"
+      "notice_no": "R26BK01678113",
+      "notice_date": "2026-08-13 10:44:53",
+      "deadline": "2026-08-25 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678113&bidPbancOrd=000",
+      "budget": "75000000"
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,경북,2026,경북테크노파크,경상북도,중소기업,중견기업,스마트공장,제조기업,방산,모빌리티,ICT,정보통신기술,제품설계,공정개선,자동화장비,제어기,센서,중소기업기술정보진흥원",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[경북] 2026년 지역특화형(고도화) 스마트공장 구축사업 공고",
+      "org": "경상북도",
+      "demand_org": "경북테크노파크",
+      "notice_no": "PBLN_000000000125440",
+      "notice_date": "2026-08-13 13:42:15",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125440",
+      "budget": ""
     },
     {
       "source": "기업마당",
@@ -434,21 +359,6 @@
       "notice_date": "2026-07-29 14:04:21",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124869",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "경영,강원,스마트공장확산,스마트공장보급,2026,지역특화형,강원특별자치도,정보통신기술,스마트공장구축,제조공정,식품,ICT,강원테크노파크,바이오헬스,스마트공장,중소기업기술정보진흥원,중소벤처기업부,중소기업,중견기업,제조기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[강원] 2026년 2차 지역특화형(바이오헬스ㆍ식품) 스마트공장 구축사업 공고",
-      "org": "강원특별자치도",
-      "demand_org": "강원테크노파크",
-      "notice_no": "PBLN_000000000124816",
-      "notice_date": "2026-07-28 13:45:22",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124816",
       "budget": ""
     },
     {
