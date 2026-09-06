@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:28:12",
+  "generated_at": "2026-09-06T00:19:40",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,68 +44,8 @@
       ]
     }
   ],
-  "count": 20,
+  "count": 16,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "SAR 인공지능 연산기술 최신화 장비 구매",
-      "org": "국립공원공단국립공원연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01712648",
-      "notice_date": "2026-09-04 10:56:26",
-      "deadline": "2026-09-07 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712648&bidPbancOrd=000",
-      "budget": "21200000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": " 2026년 상생협력 실증 프로그램_인공지능 자동주입 플랫폼, 원수자료 전처리 및 최적화 시스템, 딥러닝 알고리즘, 학습자료 전처리 및 최적화 시스템, 데이터 송수신 시스템 ",
-      "org": "에코피스 주식회사",
-      "demand_org": "",
-      "notice_no": "R26BK01713868",
-      "notice_date": "2026-09-04 12:27:14",
-      "deadline": "2026-09-15 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713868&bidPbancOrd=000",
-      "budget": "330000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2026학년도 경북기계금속고등학교 협약형특성화고 운영 기자재 구입(스마트공장 실습장비)",
-      "org": "경상북도교육청 경북기계금속고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01714103",
-      "notice_date": "2026-09-04 15:05:55",
-      "deadline": "2026-09-28 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714103&bidPbancOrd=000",
-      "budget": "521730000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[재공고]경희사이버대학교 AI 강의 교안 제작 시스템 및 생성형 AI 구축 용역 업체 선정 (제2026-4호)",
-      "org": "경희사이버대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01714056",
-      "notice_date": "2026-09-04 15:43:53",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714056&bidPbancOrd=000",
-      "budget": "72000000"
-    },
     {
       "source": "기업마당",
       "category": "기술,전북,노지 분야,2026,IP지재권,AI융합,기술고도화,농업,SW,평가,ICT,기술이전,과학기술정보통신부,전북테크노파크,컨설팅,정보통신산업진흥원,AI",
