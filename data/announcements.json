@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:19:40",
+  "generated_at": "2026-09-07T00:26:17",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,23 @@
       ]
     }
   ],
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "대한민국농구협회 통합정보시스템 AI 에이전트 구축",
+      "org": "사단법인 대한민국농구협회",
+      "demand_org": "",
+      "notice_no": "R26BK01715250",
+      "notice_date": "2026-09-07 08:39:32",
+      "deadline": "2026-09-18 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715250&bidPbancOrd=000",
+      "budget": "200000000"
+    },
     {
       "source": "기업마당",
       "category": "기술,전북,노지 분야,2026,IP지재권,AI융합,기술고도화,농업,SW,평가,ICT,기술이전,과학기술정보통신부,전북테크노파크,컨설팅,정보통신산업진흥원,AI",
