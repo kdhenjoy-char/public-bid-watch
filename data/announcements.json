@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:26:17",
+  "generated_at": "2026-09-08T00:47:43",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,53 @@
       ]
     }
   ],
-  "count": 17,
+  "count": 29,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[건국대학교 글로컬산학협력단] 강화학습·생성형 AI 기반 야생동물 행동·생태 제어 모델 개발용 GPU 서버",
+      "org": "건국대학교글로컬산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01714631",
+      "notice_date": "2026-09-07 16:08:08",
+      "deadline": "2026-09-15 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714631&bidPbancOrd=000",
+      "budget": "39996000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 서버 구입",
+      "org": "가천대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01717163",
+      "notice_date": "2026-09-07 17:00:05",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717163&bidPbancOrd=000",
+      "budget": "44506000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "(266049-G) 인공지능 실증용 GPU 서버 도입(리스자산)",
+      "org": "국방부 국군재정관리단",
+      "demand_org": "",
+      "notice_no": "R26BK01717081",
+      "notice_date": "2026-09-07 17:22:36",
+      "deadline": "2026-09-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717081&bidPbancOrd=000",
+      "budget": "1200000000"
+    },
     {
       "source": "나라장터",
       "category": "용역",
@@ -60,6 +105,141 @@
       "deadline": "2026-09-18 12:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715250&bidPbancOrd=000",
       "budget": "200000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[재공고]경희사이버대학교 AI 강의 교안 제작 시스템 및 생성형 AI 구축 용역 업체 선정 (제2026-4호)",
+      "org": "경희사이버대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01714056",
+      "notice_date": "2026-09-07 10:11:23",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714056&bidPbancOrd=001",
+      "budget": "72000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "Storage & Cluster Server 임차",
+      "org": "경북대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01715605",
+      "notice_date": "2026-09-07 10:34:04",
+      "deadline": "2026-09-18 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715605&bidPbancOrd=000",
+      "budget": "73050000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 신뢰성 검증 평가방안 구축 용역",
+      "org": "한국정보통신기술협회",
+      "demand_org": "",
+      "notice_no": "R26BK01715760",
+      "notice_date": "2026-09-07 10:59:26",
+      "deadline": "2026-09-22 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715760&bidPbancOrd=000",
+      "budget": "200000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "안정적인 AI 서비스를 위한 콜인프라 교체(1차)",
+      "org": "한국관광공사",
+      "demand_org": "",
+      "notice_no": "R26BK01715875",
+      "notice_date": "2026-09-07 11:21:44",
+      "deadline": "2026-09-18 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715875&bidPbancOrd=000",
+      "budget": "250000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "경상북도교육청 인공지능교육관 개관식 행사 용역 입찰 공고(2단계 규격가격동시)",
+      "org": "경상북도교육청 경상북도교육청발명인공지능교육원",
+      "demand_org": "",
+      "notice_no": "R26BK01715792",
+      "notice_date": "2026-09-07 13:14:59",
+      "deadline": "2026-09-18 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715792&bidPbancOrd=000",
+      "budget": "89001000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "제조AI솔루션 공모전 및 K-제조 AI 그랜드 챌린지 행사 홍보·운영 대행",
+      "org": "(사)중소기업기술혁신협회",
+      "demand_org": "",
+      "notice_no": "R26BK01715344",
+      "notice_date": "2026-09-07 13:20:49",
+      "deadline": "2026-09-18 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715344&bidPbancOrd=000",
+      "budget": "50000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 실감콘텐츠 전시 공간 조성 용역",
+      "org": "주식회사 레벨나인",
+      "demand_org": "",
+      "notice_no": "R26BK01711048",
+      "notice_date": "2026-09-07 15:33:41",
+      "deadline": "2026-09-18 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711048&bidPbancOrd=000",
+      "budget": "94050000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 실감콘텐츠 전시용  LED 디스플레이 임차 용역",
+      "org": "주식회사 레벨나인",
+      "demand_org": "",
+      "notice_no": "R26BK01710950",
+      "notice_date": "2026-09-07 15:37:18",
+      "deadline": "2026-09-18 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710950&bidPbancOrd=000",
+      "budget": "66000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "가천대학교 AI부트캠프 사업 생성형 AI 활용 교육 기획·운영 위탁 용역(2026-2학기)",
+      "org": "가천대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01716907",
+      "notice_date": "2026-09-07 16:34:36",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716907&bidPbancOrd=000",
+      "budget": "27934500"
     },
     {
       "source": "기업마당",
