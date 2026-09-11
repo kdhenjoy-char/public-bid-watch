@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:42:53",
+  "generated_at": "2026-09-11T00:39:32",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,53 +44,8 @@
       ]
     }
   ],
-  "count": 23,
+  "count": 24,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 학습 및 시뮬레이션 전용 워크스테이션 장비 구매",
-      "org": "대구경북첨단의료산업진흥재단",
-      "demand_org": "",
-      "notice_no": "R26BK01720136",
-      "notice_date": "2026-09-09 09:48:26",
-      "deadline": "2026-09-15 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720136&bidPbancOrd=000",
-      "budget": "63324260"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능(AI) 기반 피해예측 모델 개발용 서버",
-      "org": "한국해양과학기술원 부설 선박해양플랜트연구소",
-      "demand_org": "",
-      "notice_no": "R26BK01721094",
-      "notice_date": "2026-09-09 14:15:54",
-      "deadline": "2026-09-10 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721094&bidPbancOrd=000",
-      "budget": "78699500"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "학술연구용첨단장비(컴퓨터서버)제조구매_인공지능학과",
-      "org": "서울특별시 서울시립대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01721573",
-      "notice_date": "2026-09-09 16:09:08",
-      "deadline": "2026-09-15 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721573&bidPbancOrd=000",
-      "budget": "62491000"
-    },
     {
       "source": "나라장터",
       "category": "물품",
@@ -108,18 +63,48 @@
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
-        "smart-factory"
+        "gen-ai"
       ],
-      "title": "2026 KIMES BUSAN (부산국제의료기기전시회) 전시공간 임차 및 지원 용역 구매",
-      "org": "한국전기연구원",
+      "title": "인공지능 계산용 GPU 서버 구매 및 설치(재공고)",
+      "org": "한국해양과학기술원",
       "demand_org": "",
-      "notice_no": "R26BK01721800",
-      "notice_date": "2026-09-09 17:08:45",
-      "deadline": "2026-09-17 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721800&bidPbancOrd=000",
-      "budget": "53000000"
+      "notice_no": "R26BK01723333",
+      "notice_date": "2026-09-10 14:17:44",
+      "deadline": "2026-09-22 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723333&bidPbancOrd=000",
+      "budget": "100000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 계산용 GPU 구매 및 설치(재공고)",
+      "org": "한국해양과학기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01723387",
+      "notice_date": "2026-09-10 14:27:02",
+      "deadline": "2026-09-22 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723387&bidPbancOrd=000",
+      "budget": "130000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026학년도 광운인공지능고등학교 AI로봇과 실험실습 기자재 구입 소액수의 견적공고",
+      "org": "서울특별시교육청 광운인공지능고등학교",
+      "demand_org": "",
+      "notice_no": "R26BK01724449",
+      "notice_date": "2026-09-11 09:23:56",
+      "deadline": "2026-09-21 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724449&bidPbancOrd=000",
+      "budget": "35210000"
     },
     {
       "source": "나라장터",
@@ -135,6 +120,36 @@
       "deadline": "2026-09-18 17:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715344&bidPbancOrd=001",
       "budget": "50000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[한남대학교 산학협력단]2026-13호 철도 도메인 특화 RAG 기반 AI 실시간 안전교관 시스템 구축 및 연동 용역",
+      "org": "한남대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01722475",
+      "notice_date": "2026-09-10 10:02:26",
+      "deadline": "2026-09-21 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722475&bidPbancOrd=000",
+      "budget": "130000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "RIAM 기반 제조셀 스케줄링 엔진 재설계(자체 개발 MES 연동)",
+      "org": "한국생산기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01722752",
+      "notice_date": "2026-09-10 11:05:13",
+      "deadline": "2026-09-10 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722752&bidPbancOrd=000",
+      "budget": "30000000"
     },
     {
       "source": "기업마당",
