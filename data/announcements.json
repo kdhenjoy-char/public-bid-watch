@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:52:26",
+  "generated_at": "2026-09-19T00:44:18",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "source": "나라장터",
@@ -52,14 +52,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "중앙대학교 의료 인공지능 사업 전용 GPU 구매",
-      "org": "중앙대학교 산학협력단",
+      "title": "[건국대학교글로컬산학협력단] 강화학습·생성형 AI 기반 야생동물 행동·생태 제어 모델 개발용 GPU 서버",
+      "org": "건국대학교글로컬산학협력단",
       "demand_org": "",
-      "notice_no": "R26BK01734077",
-      "notice_date": "2026-09-17 09:49:07",
+      "notice_no": "R26BK01736284",
+      "notice_date": "2026-09-18 13:20:29",
       "deadline": "2026-09-29 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734077&bidPbancOrd=000",
-      "budget": "29304000"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736284&bidPbancOrd=000",
+      "budget": "39996000"
     },
     {
       "source": "나라장터",
@@ -67,44 +67,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "중앙대학교 의료 인공지능 사업 전용 RAM 구매",
-      "org": "중앙대학교 산학협력단",
+      "title": "서울과학기술대학교인공지능혁신융합대학사업단 실험·실습 장비(교육용 고성능 GPU 서버) 구매",
+      "org": "서울과학기술대학교 산학협력단",
       "demand_org": "",
-      "notice_no": "R26BK01734127",
-      "notice_date": "2026-09-17 10:00:25",
-      "deadline": "2026-09-29 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734127&bidPbancOrd=000",
-      "budget": "29700000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 학습 및 시뮬레이션 전용 워크스테이션 장비 구매",
-      "org": "대구경북첨단의료산업진흥재단",
-      "demand_org": "",
-      "notice_no": "R26BK01734884",
-      "notice_date": "2026-09-17 14:11:47",
-      "deadline": "2026-09-23 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734884&bidPbancOrd=000",
-      "budget": "63324260"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 인지 성능 평가 장비",
-      "org": "조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01733953",
-      "notice_date": "2026-09-17 15:26:40",
-      "deadline": "2026-09-18 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01733953&bidPbancOrd=000",
-      "budget": "604870000"
+      "notice_no": "R26BK01736921",
+      "notice_date": "2026-09-18 15:03:11",
+      "deadline": "2026-09-28 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736921&bidPbancOrd=000",
+      "budget": "99000000"
     },
     {
       "source": "나라장터",
@@ -116,9 +86,9 @@
       "org": "서울과학기술대학교 산학협력단",
       "demand_org": "",
       "notice_no": "R26BK01726270",
-      "notice_date": "2026-09-17 16:49:57",
+      "notice_date": "2026-09-18 15:05:23",
       "deadline": "2026-09-28 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726270&bidPbancOrd=001",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726270&bidPbancOrd=003",
       "budget": "99000000"
     },
     {
@@ -127,14 +97,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": " 2026년 상생협력 실증 프로그램_인공지능 자동주입 플랫폼, 원수자료 전처리 및 최적화 시스템, 딥러닝 알고리즘, 학습자료 전처리 및 최적화 시스템, 데이터 송수신 시스템 ",
-      "org": "에코피스 주식회사",
+      "title": "학습,(3-12110)AI·DX 창의융합 전공교육과정 운영을 위한 생성형 AI 서비스(Claude Pro 외 17종) 단기 사용권 구입",
+      "org": "신구대학 산학협력단",
       "demand_org": "",
-      "notice_no": "R26BK01735784",
-      "notice_date": "2026-09-17 18:24:19",
-      "deadline": "2026-09-28 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01735784&bidPbancOrd=000",
-      "budget": "330000000"
+      "notice_no": "R26BK01737251",
+      "notice_date": "2026-09-18 16:33:20",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737251&bidPbancOrd=000",
+      "budget": "110636830"
     },
     {
       "source": "나라장터",
@@ -142,14 +112,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "울산항 정보공유 AI 서비스 구축 PoC 용역",
-      "org": "조달청 부산지방조달청",
+      "title": "[수의시담]「AI Pick 내 업무에 딱맞는 인공지능 활용」 과정 용역",
+      "org": "경기도 용인시",
       "demand_org": "",
-      "notice_no": "R26BK01732564",
-      "notice_date": "2026-09-17 10:02:54",
-      "deadline": "2026-10-02 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01732564&bidPbancOrd=000",
-      "budget": "243437940"
+      "notice_no": "R26BK01736318",
+      "notice_date": "2026-09-18 10:11:55",
+      "deadline": "2026-09-18 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736318&bidPbancOrd=000",
+      "budget": "24579000"
     },
     {
       "source": "나라장터",
@@ -157,14 +127,59 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "인공지능 데이터분석 PBL 콘텐츠 제작",
-      "org": "한국과학기술정보연구원",
+      "title": "[정보화] 보건의료연구자원정보센터(CODA)시스템 기능개선- RAG 기반 검색기능 개선 적용",
+      "org": "질병관리청 국립보건연구원",
       "demand_org": "",
-      "notice_no": "R26BK01734964",
-      "notice_date": "2026-09-17 14:32:51",
+      "notice_no": "R26BK01736725",
+      "notice_date": "2026-09-18 13:53:11",
+      "deadline": "2026-09-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736725&bidPbancOrd=000",
+      "budget": "100000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 실감콘텐츠 전시 공간 조성 용역",
+      "org": "주식회사 레벨나인",
+      "demand_org": "",
+      "notice_no": "R26BK01736960",
+      "notice_date": "2026-09-18 14:41:47",
       "deadline": "2026-09-29 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734964&bidPbancOrd=000",
-      "budget": "220000000"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736960&bidPbancOrd=000",
+      "budget": "94050000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 실감콘텐츠 전시용  LED 디스플레이 임차 용역(재공고)",
+      "org": "주식회사 레벨나인",
+      "demand_org": "",
+      "notice_no": "R26BK01737014",
+      "notice_date": "2026-09-18 14:54:45",
+      "deadline": "2026-09-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737014&bidPbancOrd=000",
+      "budget": "66000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "경상북도교육청 인공지능교육관 개관식 행사 용역 입찰 재공고(2단계 규격가격동시)",
+      "org": "경상북도교육청 경상북도교육청발명인공지능교육원",
+      "demand_org": "",
+      "notice_no": "R26BK01736809",
+      "notice_date": "2026-09-18 15:10:58",
+      "deadline": "2026-09-29 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736809&bidPbancOrd=000",
+      "budget": "89001000"
     }
   ]
 }
