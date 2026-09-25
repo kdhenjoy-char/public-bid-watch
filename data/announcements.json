@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:57:25",
+  "generated_at": "2026-09-25T00:58:46",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,113 +44,8 @@
       ]
     }
   ],
-  "count": 27,
+  "count": 20,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "AI 기반 발전소 환경･설비 통합 디지털트윈 예측 플램폼 실증용 GPU 서버 구매",
-      "org": "주식회사 제이에이치솔루션",
-      "demand_org": "",
-      "notice_no": "R26BK01741720",
-      "notice_date": "2026-09-23 10:37:52",
-      "deadline": "2026-09-29 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741720&bidPbancOrd=001",
-      "budget": "80000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "AI 기반 발전소 환경･설비 통합 디지털트윈 예측 플램폼 실증용 GPU 서버 구매",
-      "org": "주식회사 제이에이치솔루션",
-      "demand_org": "",
-      "notice_no": "R26BK01743347",
-      "notice_date": "2026-09-23 11:28:56",
-      "deadline": "2026-09-29 15:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743347&bidPbancOrd=000",
-      "budget": "80000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 학습 및 시뮬레이션 전용 워크스테이션 장비 구매",
-      "org": "대구경북첨단의료산업진흥재단",
-      "demand_org": "",
-      "notice_no": "R26BK01744342",
-      "notice_date": "2026-09-23 16:42:54",
-      "deadline": "2026-10-02 18:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744342&bidPbancOrd=000",
-      "budget": "63324260"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "(AI 서비스 개발확산 지원사업) 2026년도 연구수행에 필요한 AI 서버 임차",
-      "org": "주식회사 윔",
-      "demand_org": "",
-      "notice_no": "R26BK01744558",
-      "notice_date": "2026-09-23 20:24:40",
-      "deadline": "2026-10-07 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744558&bidPbancOrd=000",
-      "budget": "83000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "AI 기반 구조물 반응 해안선 변화 모델링 및 연안침식 디지털트윈 연계 지원 용역",
-      "org": "한국해양과학기술원",
-      "demand_org": "",
-      "notice_no": "R26BK01743966",
-      "notice_date": "2026-09-23 14:39:05",
-      "deadline": "2026-10-06 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743966&bidPbancOrd=000",
-      "budget": "42000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[앵커2-2] AI기반 ESG 경영 지원 챗봇 시스템 구축 용역",
-      "org": "경인여자대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01739275",
-      "notice_date": "2026-09-23 18:12:05",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739275&bidPbancOrd=001",
-      "budget": "29000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "국민인공지능서비스혁신추진단 전산물품(개발용 노트북) 임차",
-      "org": "과학기술정보통신부",
-      "demand_org": "",
-      "notice_no": "R26BK01744197",
-      "notice_date": "2026-09-23 21:07:46",
-      "deadline": "2026-09-30 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744197&bidPbancOrd=000",
-      "budget": "225720000"
-    },
     {
       "source": "기업마당",
       "category": "수출,강원,부스공사,디자인작업,그래픽 패널,디렉토리 제작,원주의료기기산업진흥원,2026,강원특별자치도,사전마케팅,통역원,헬스케어,제조기업,의료기기,바이어",
