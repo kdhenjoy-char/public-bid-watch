@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:58:46",
+  "generated_at": "2026-09-26T01:00:50",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,23 @@
       ]
     }
   ],
-  "count": 20,
+  "count": 21,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "「광주첨단 스마트그린 AX실증산단 구축 사업」 디지털트윈 기획 및 설계 용역",
+      "org": "주식회사 레플러스",
+      "demand_org": "",
+      "notice_no": "R26BK01744644",
+      "notice_date": "2026-09-25 19:05:35",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744644&bidPbancOrd=000",
+      "budget": "67601600"
+    },
     {
       "source": "기업마당",
       "category": "수출,강원,부스공사,디자인작업,그래픽 패널,디렉토리 제작,원주의료기기산업진흥원,2026,강원특별자치도,사전마케팅,통역원,헬스케어,제조기업,의료기기,바이어",
