@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:52:24",
+  "generated_at": "2026-10-03T01:31:34",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 25,
+  "count": 24,
   "items": [
     {
       "source": "나라장터",
@@ -52,14 +52,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[2026 앵커(신산업)] 연성대학교 LLM 서버 구입",
-      "org": "연성대학교 산학협력단",
+      "title": "로컬 LLM 환경 구축을 위한 AI 워크스테이션",
+      "org": "한국광기술원",
       "demand_org": "",
-      "notice_no": "R26BK01752163",
-      "notice_date": "2026-10-01 09:30:26",
+      "notice_no": "R26BK01754893",
+      "notice_date": "2026-10-02 13:26:10",
       "deadline": "2026-10-12 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752163&bidPbancOrd=000",
-      "budget": "59840000"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01754893&bidPbancOrd=000",
+      "budget": "19350000"
     },
     {
       "source": "나라장터",
@@ -67,74 +67,14 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "국방모델 전용 폐쇄 LLM 개발 및 성능 평가를 위한 전용 소형 PC 구매",
-      "org": "한국과학기술정보연구원",
+      "title": "인공지능 교육 및 학습용 GPU 서버 구매",
+      "org": "조달청 대구지방조달청",
       "demand_org": "",
-      "notice_no": "R26BK01753341",
-      "notice_date": "2026-10-01 15:28:39",
-      "deadline": "2026-10-08 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01753341&bidPbancOrd=000",
-      "budget": "20000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "공공부문 인공지능 신뢰기반 제도 교육 및 홍보 콘텐츠 제작",
-      "org": "한국지능정보사회진흥원",
-      "demand_org": "",
-      "notice_no": "R26BK01751861",
-      "notice_date": "2026-10-01 13:22:42",
-      "deadline": "2026-10-13 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01751861&bidPbancOrd=000",
-      "budget": "43872995"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "안정적인 AI 서비스를 위한 콜인프라 교체(1차)",
-      "org": "한국관광공사",
-      "demand_org": "",
-      "notice_no": "R26BK01752850",
-      "notice_date": "2026-10-01 13:27:57",
-      "deadline": "2026-10-12 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752850&bidPbancOrd=000",
-      "budget": "250000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "경상북도 지방소멸 위기 극복을 위한 주민케어 AI 서비스 개인정보 영향평가",
-      "org": "한국지능정보사회진흥원",
-      "demand_org": "",
-      "notice_no": "R26BK01752887",
-      "notice_date": "2026-10-01 14:39:53",
-      "deadline": "2026-10-20 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752887&bidPbancOrd=000",
-      "budget": "70029217"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2026 KIMES BUSAN (부산국제의료기기전시회) 전시공간 임차 및 지원 용역 구매",
-      "org": "한국전기연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01752793",
-      "notice_date": "2026-10-01 15:08:55",
-      "deadline": "2026-10-07 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752793&bidPbancOrd=000",
-      "budget": "53000000"
+      "notice_no": "R26BK01755499",
+      "notice_date": "2026-10-02 17:00:52",
+      "deadline": "2026-10-16 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755499&bidPbancOrd=000",
+      "budget": "269339200"
     },
     {
       "source": "나라장터",
@@ -150,6 +90,51 @@
       "deadline": "2026-10-12 14:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747588&bidPbancOrd=000",
       "budget": "25527000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 실감콘텐츠 전시용  LED 디스플레이 임차 용역(재공고)",
+      "org": "주식회사 레벨나인",
+      "demand_org": "",
+      "notice_no": "R26BK01754639",
+      "notice_date": "2026-10-02 11:25:54",
+      "deadline": "2026-10-13 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01754639&bidPbancOrd=000",
+      "budget": "66000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 인공지능사관학교 AI 커리어앱 페어 행사 위탁용역",
+      "org": "인공지능산업융합사업단",
+      "demand_org": "",
+      "notice_no": "R26BK01754573",
+      "notice_date": "2026-10-02 16:36:58",
+      "deadline": "2026-10-23 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01754573&bidPbancOrd=000",
+      "budget": "150000000"
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,경영,전남광주,전남광주통합특별시,2026,스마트공장구축,솔루션구축,제어기,센서,자동화장비,솔루션,제조기업,전남테크노파크,스마트공장,제조업,중견기업,중소기업",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[전남광주] 2026년 2차 스마트공장(기초단계) 보급ㆍ확산사업 지원 공고",
+      "org": "전남광주통합특별시",
+      "demand_org": "전남테크노파크",
+      "notice_no": "PBLN_000000000126947",
+      "notice_date": "2026-10-02 09:35:48",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126947",
+      "budget": ""
     },
     {
       "source": "기업마당",
