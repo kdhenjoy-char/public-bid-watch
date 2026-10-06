@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:22:32",
+  "generated_at": "2026-10-06T02:34:53",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,38 @@
       ]
     }
   ],
-  "count": 19,
+  "count": 21,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 학습 및 시뮬레이션 전용 워크스테이션 장비 구매",
+      "org": "대구경북첨단의료산업진흥재단",
+      "demand_org": "",
+      "notice_no": "R26BK01756540",
+      "notice_date": "2026-10-06 09:52:39",
+      "deadline": "2026-10-13 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756540&bidPbancOrd=000",
+      "budget": "63324260"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "인도네시아 산업전환을 위한 스마트팩토리화 도입 및 전문인력 양성사업 종료평가 용역",
+      "org": "(사)중소기업기술혁신협회",
+      "demand_org": "",
+      "notice_no": "R26BK01756675",
+      "notice_date": "2026-10-06 10:53:03",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756675&bidPbancOrd=000",
+      "budget": "50000000"
+    },
     {
       "source": "기업마당",
       "category": "기술,경영,전남광주,전남광주통합특별시,2026,스마트공장구축,솔루션구축,제어기,센서,자동화장비,솔루션,제조기업,전남테크노파크,스마트공장,제조업,중견기업,중소기업",
