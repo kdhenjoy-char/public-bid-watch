@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:52:44",
+  "generated_at": "2026-10-17T00:52:43",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 28,
+  "count": 26,
   "items": [
     {
       "source": "나라장터",
@@ -52,104 +52,89 @@
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[세종산단20260025-1호] 세종대학교 인공지능데이터사이언스학과 컴퓨터서버 1종 구매",
-      "org": "세종대학교 산학협력단",
+      "title": "인공지능 모델 학습 및 데이터 병렬처리 GPU서버",
+      "org": "한국전자기술연구원",
       "demand_org": "",
-      "notice_no": "R26BK01772422",
-      "notice_date": "2026-10-15 10:18:57",
+      "notice_no": "R26BK01774579",
+      "notice_date": "2026-10-16 10:00:03",
+      "deadline": "2026-10-27 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01774579&bidPbancOrd=000",
+      "budget": "59200000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "민원대응 챗봇 및 내부 업무지원 SH-AI포털 개발서버 도입",
+      "org": "서울주택도시개발공사",
+      "demand_org": "",
+      "notice_no": "R26BK01775157",
+      "notice_date": "2026-10-16 12:56:26",
+      "deadline": "2026-10-22 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01775157&bidPbancOrd=000",
+      "budget": "556600000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[수의시담]서울과학기술대학교인공지능혁신융합대학사업단 실험·실습 장비(교육용 고성능 GPU 서버) 구매",
+      "org": "서울과학기술대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01775166",
+      "notice_date": "2026-10-16 14:48:23",
+      "deadline": "2026-10-16 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01775166&bidPbancOrd=000",
+      "budget": "99000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "민원대응 챗봇 및 내부 업무지원 SH-AI포털 개발서버 도입",
+      "org": "서울주택도시개발공사",
+      "demand_org": "",
+      "notice_no": "R26BK01776394",
+      "notice_date": "2026-10-16 17:25:00",
+      "deadline": "2026-10-22 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776394&bidPbancOrd=000",
+      "budget": "556600000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "로컬 LLM 환경 구축을 위한 AI 워크스테이션 전자시담",
+      "org": "한국광기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01776540",
+      "notice_date": "2026-10-16 18:22:04",
+      "deadline": "2026-10-19 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776540&bidPbancOrd=000",
+      "budget": "19350000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "한국투자공사 내부 인공지능 플랫폼 고도화 감리",
+      "org": "한국투자공사",
+      "demand_org": "",
+      "notice_no": "R26BK01776532",
+      "notice_date": "2026-10-16 18:23:37",
       "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01772422&bidPbancOrd=000",
-      "budget": "29700000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "오픈웨이트 LLM 및 에이전트 성능 측정을 위한 추론 전용 소형 PC 구매",
-      "org": "한국과학기술정보연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01773076",
-      "notice_date": "2026-10-15 13:55:37",
-      "deadline": "2026-10-21 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01773076&bidPbancOrd=000",
-      "budget": "18918000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능 계산용 GPU 구매 및 설치",
-      "org": "한국해양과학기술원",
-      "demand_org": "",
-      "notice_no": "R26BK01773693",
-      "notice_date": "2026-10-15 15:45:41",
-      "deadline": "2026-10-27 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01773693&bidPbancOrd=000",
-      "budget": "62150000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "(재공고)[디지털조선소 전문인력양성사업] 인공지능, 빅데이터 워크스테이션 구입",
-      "org": "울산대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01773965",
-      "notice_date": "2026-10-15 16:55:08",
-      "deadline": "2026-10-21 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01773965&bidPbancOrd=000",
-      "budget": "21000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[정보화/중앙/헬스케어인공지능연구과] 2027년 임상연구관리시스템 유지관리 및 운영 지원",
-      "org": "조달청 충북지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01766727",
-      "notice_date": "2026-10-15 13:28:13",
-      "deadline": "2026-10-29 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01766727&bidPbancOrd=000",
-      "budget": "237305600"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "지역 주도형 AI 대전환 사업 제조 AI 허브 쇼룸 제작 감리 용역",
-      "org": "조달청 부산지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01772892",
-      "notice_date": "2026-10-15 14:34:37",
-      "deadline": "2026-10-23 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01772892&bidPbancOrd=000",
-      "budget": "240118800"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "NPU 기반 범정부 AI 서비스 구현 ",
-      "org": "조달청 대구지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01750163",
-      "notice_date": "2026-10-15 14:46:13",
-      "deadline": "2026-10-14 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750163&bidPbancOrd=001",
-      "budget": "13408420416"
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776532&bidPbancOrd=000",
+      "budget": "250000000"
     },
     {
       "source": "기업마당",
@@ -299,21 +284,6 @@
       "notice_date": "2026-09-28 09:35:46",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126773",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,강원,부스공사,디자인작업,그래픽 패널,디렉토리 제작,원주의료기기산업진흥원,2026,강원특별자치도,사전마케팅,통역원,헬스케어,제조기업,의료기기,바이어",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[강원] 제42회 국제의료기기ㆍ병원설비전시회(KIMES 2027) 강원공동관 참가기업 2차 모집 공고",
-      "org": "강원특별자치도",
-      "demand_org": "원주의료기기산업진흥원",
-      "notice_no": "PBLN_000000000126569",
-      "notice_date": "2026-09-17 11:00:10",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126569",
       "budget": ""
     },
     {
