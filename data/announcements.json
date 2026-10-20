@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:34:36",
+  "generated_at": "2026-10-20T01:20:43",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,53 @@
       ]
     }
   ],
-  "count": 22,
+  "count": 28,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "광운인공지능고등학교 2027학년도 교복(동,하복) 학교주관 구매",
+      "org": "서울특별시교육청 광운인공지능고등학교",
+      "demand_org": "",
+      "notice_no": "R26BK01765002",
+      "notice_date": "2026-10-19 10:48:27",
+      "deadline": "2026-10-30 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01765002&bidPbancOrd=000",
+      "budget": "61380000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[세종산단20260030호] 세종대학교 인공지능데이터사이언스학과 GPU서버 1종 구매",
+      "org": "세종대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01768647",
+      "notice_date": "2026-10-19 17:55:21",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01768647&bidPbancOrd=000",
+      "budget": "170000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능(딥러닝) 연구용 GPU 서버 구입",
+      "org": "가천대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01779907",
+      "notice_date": "2026-10-20 08:58:21",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01779907&bidPbancOrd=000",
+      "budget": "83138000"
+    },
     {
       "source": "나라장터",
       "category": "용역",
@@ -75,6 +120,66 @@
       "deadline": "2026-10-26 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01777116&bidPbancOrd=000",
       "budget": "20000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "나사렛대학교 AI 학사상담 챗봇 시스템 구축",
+      "org": "나사렛대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01776982",
+      "notice_date": "2026-10-19 10:15:33",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776982&bidPbancOrd=000",
+      "budget": "55550000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "SW 3자단가(DocuRAG 1.0.0 (유지관리) 코그니텀(주))",
+      "org": "조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01776505",
+      "notice_date": "2026-10-19 13:17:02",
+      "deadline": "2026-10-21 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776505&bidPbancOrd=000",
+      "budget": "1566300000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "SW 3자단가(DocuRAG 1.0.0 (커스터마이징) 코그니텀(주))",
+      "org": "조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01776506",
+      "notice_date": "2026-10-19 13:17:21",
+      "deadline": "2026-10-21 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776506&bidPbancOrd=000",
+      "budget": "3174860000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 글로컬대학 AI 에이전트 기반 「CWNU DNA+ AI 커리어 패스포트」운영 용역",
+      "org": "국립창원대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01779091",
+      "notice_date": "2026-10-19 17:43:08",
+      "deadline": "2026-10-30 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01779091&bidPbancOrd=000",
+      "budget": "95000000"
     },
     {
       "source": "기업마당",
@@ -209,21 +314,6 @@
       "notice_date": "2026-09-28 09:49:46",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126776",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경영,경남,스마트공장 기초구축,생산공정 개선,2026,기초구축,정보통신기술,제어기,센서,제품설계,자동화장비,제조혁신,ICT,경남테크노파크,경상남도,제조기업,스마트공장,중견기업,중소기업,창원시,통영시,사천시,밀양시,거제시,양산시,함안군,창녕군,남해군,하동군,산청군,함양군,거창군",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경남] 2026년 스마트공장 기초구축 지원사업 추가모집 수정 공고",
-      "org": "경상남도",
-      "demand_org": "경남테크노파크",
-      "notice_no": "PBLN_000000000126773",
-      "notice_date": "2026-09-28 09:35:46",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126773",
       "budget": ""
     },
     {
