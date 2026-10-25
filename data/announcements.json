@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:13:56",
+  "generated_at": "2026-10-25T00:38:04",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,83 +44,8 @@
       ]
     }
   ],
-  "count": 23,
+  "count": 18,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "오픈웨이트 LLM 및 에이전트 성능 측정을 위한 추론 전용 소형 PC 구매",
-      "org": "한국과학기술정보연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01787856",
-      "notice_date": "2026-10-23 11:34:14",
-      "deadline": "2026-10-29 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787856&bidPbancOrd=000",
-      "budget": "20600000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "용접부 연삭공정 자동화용 다축 매니퓰레이터",
-      "org": "한국생산기술연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01789036",
-      "notice_date": "2026-10-23 16:02:43",
-      "deadline": "2026-10-26 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01789036&bidPbancOrd=000",
-      "budget": "51700000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 AT랩 인공지능기반 차세대 인재양성용 기자재 구입",
-      "org": "조달청 서울지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01787870",
-      "notice_date": "2026-10-23 16:03:02",
-      "deadline": "2026-11-06 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787870&bidPbancOrd=000",
-      "budget": "230738040"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 인공지능(AI) 교과 도서 개발 인정도서 발행기관 운영 사업",
-      "org": "충남대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01785714",
-      "notice_date": "2026-10-23 09:05:34",
-      "deadline": "2026-11-03 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785714&bidPbancOrd=000",
-      "budget": "692000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "로봇직업교육센터 디지털트윈 기반 모듈형 교육 콘텐츠 기획 및 설계 용역",
-      "org": "한국로봇산업진흥원",
-      "demand_org": "",
-      "notice_no": "R26BK01788854",
-      "notice_date": "2026-10-23 15:26:23",
-      "deadline": "2026-11-03 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788854&bidPbancOrd=000",
-      "budget": "59866254"
-    },
     {
       "source": "기업마당",
       "category": "기술,전북,2026,지역특화형,농식품기업,정보통신기술,김제시,자동화장비,ICT,제조기업,전북테크노파크,스마트공장,중소벤처기업부,중견기업,중소기업",
