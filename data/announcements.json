@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:48:36",
+  "generated_at": "2026-10-27T01:40:45",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 20,
+  "count": 28,
   "items": [
     {
       "source": "나라장터",
@@ -63,6 +63,81 @@
     },
     {
       "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "과학기술분야 오픈웨이트 LLM 및 에이전트 개발 및 성능 평가를 위한 전용 소형 PC 구매",
+      "org": "한국과학기술정보연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01788108",
+      "notice_date": "2026-10-26 10:52:27",
+      "deadline": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788108&bidPbancOrd=000",
+      "budget": "24200000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 기반 바이오 연구용 고성능 GPU",
+      "org": "경북대학교 AIx바이오혁신연구거점사업단",
+      "demand_org": "",
+      "notice_no": "R26BK01781373",
+      "notice_date": "2026-10-26 11:29:55",
+      "deadline": "2026-11-05 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01781373&bidPbancOrd=001",
+      "budget": "29700000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 플랫폼 보조유틸서버 구입",
+      "org": "가천대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01790774",
+      "notice_date": "2026-10-26 13:44:04",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01790774&bidPbancOrd=000",
+      "budget": "97600000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 투명페트병 무인회수기(파쇄형) 구입 및 설치",
+      "org": "전남광주통합특별시 북구",
+      "demand_org": "",
+      "notice_no": "R26BK01791354",
+      "notice_date": "2026-10-26 16:41:54",
+      "deadline": "2026-10-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01791354&bidPbancOrd=000",
+      "budget": "25000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능(딥러닝) 연구용 GPU 서버 구입",
+      "org": "가천대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01792867",
+      "notice_date": "2026-10-27 10:08:05",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792867&bidPbancOrd=000",
+      "budget": "83138000"
+    },
+    {
+      "source": "나라장터",
       "category": "용역",
       "scenario_ids": [
         "gen-ai"
@@ -77,6 +152,66 @@
       "budget": "100000000"
     },
     {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[앵커사업 1-2 원주] 인프라 관리 디지털트윈 기반 MR 플랫폼 설계 및 개발",
+      "org": "한라대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01786729",
+      "notice_date": "2026-10-26 17:29:25",
+      "deadline": "2026-11-09 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01786729&bidPbancOrd=001",
+      "budget": "52000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "익산시 인공지능산업 기본계획 수립 연구용역",
+      "org": "전북특별자치도 익산시",
+      "demand_org": "",
+      "notice_no": "R26BK01791700",
+      "notice_date": "2026-10-26 18:24:55",
+      "deadline": "2026-11-16 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01791700&bidPbancOrd=000",
+      "budget": "500000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "26년도 PIM인공지능반도체 핵심기술개발사업 효과분석 및 산업동향조사 연구",
+      "org": "한국연구재단 정보통신기획평가원",
+      "demand_org": "",
+      "notice_no": "R26BK01792501",
+      "notice_date": "2026-10-27 07:51:40",
+      "deadline": "2026-11-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792501&bidPbancOrd=000",
+      "budget": "109000000"
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,공정데이터,인공지능전환,산업통상부,2026,AX,기초단계,AI모델,한국산업기술시험원,철강,금속,실증,AI",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 철강ㆍ금속 인공지능전환AX 실증센터 구축 기업지원 사업 기초단계 모집 공고",
+      "org": "산업통상부",
+      "demand_org": "한국산업기술시험원",
+      "notice_no": "PBLN_000000000127469",
+      "notice_date": "2026-10-26 13:57:54",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127469",
+      "budget": ""
+    },
+    {
       "source": "기업마당",
       "category": "기술,전북,2026,지역특화형,농식품기업,정보통신기술,김제시,자동화장비,ICT,제조기업,전북테크노파크,스마트공장,중소벤처기업부,중견기업,중소기업",
       "scenario_ids": [
@@ -89,21 +224,6 @@
       "notice_date": "2026-10-21 14:50:20",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127380",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,충북,AX검증,제조AI현장,제지,2026,융합바이오,제조AI,충주시,의료,실증,충북테크노파크,식품,제조기업,바이오,충청북도,화장품,컨설팅,중소기업기술정보진흥원,중소벤처기업부,제조업,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[충북] 충주시 2026년 제조 AI 현장 적용 지원 사업 수혜기업 모집 연장 공고",
-      "org": "중소벤처기업부",
-      "demand_org": "충북테크노파크",
-      "notice_no": "PBLN_000000000127196",
-      "notice_date": "2026-10-14 11:20:46",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127196",
       "budget": ""
     },
     {
