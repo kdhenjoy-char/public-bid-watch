@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:55:12",
+  "generated_at": "2026-11-01T01:34:46",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "source": "기업마당",
@@ -194,21 +194,6 @@
       "notice_date": "2026-07-31 15:00:42",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124975",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,전남광주,광주정보문화산업진흥원,전남광주통합특별시,2026,중소기업,중견기업,AI,SW,ICT,지능형농업,광주광역시,AI융합지능형농업,기술고도화,신뢰성평가인증,신뢰성평가,SW품질평가,데이터품질평가,시험평가인증,AI신뢰성인증",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "[전남광주] 2026년 3차 인공지능 기술 고도화 지원사업 상시 모집 공고(AI융합 지능형 농업 생태계 구축)",
-      "org": "전남광주통합특별시",
-      "demand_org": "광주정보문화산업진흥원",
-      "notice_no": "PBLN_000000000124433",
-      "notice_date": "2026-07-16 13:12:11",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124433",
       "budget": ""
     },
     {
