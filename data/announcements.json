@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:56:59",
+  "generated_at": "2026-11-03T03:46:37",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 17,
+  "count": 29,
   "items": [
     {
       "source": "나라장터",
@@ -75,6 +75,186 @@
       "deadline": "2026-11-09 10:00:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794064&bidPbancOrd=000",
       "budget": "152000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "LLM 추론시스템 서버 구매 및 설치 수의계약 안내 공고",
+      "org": "인천광역시교육청 인천과학고등학교",
+      "demand_org": "",
+      "notice_no": "R26BK01786466",
+      "notice_date": "2026-11-02 13:10:52",
+      "deadline": "2026-11-06 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01786466&bidPbancOrd=000",
+      "budget": "88000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 계산용 GPU 구매 및 설치(재공고)",
+      "org": "한국해양과학기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01803525",
+      "notice_date": "2026-11-02 13:14:30",
+      "deadline": "2026-11-13 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803525&bidPbancOrd=000",
+      "budget": "62150000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 학습 및 시뮬레이션 전용 워크스테이션 장비 구매",
+      "org": "대구경북첨단의료산업진흥재단",
+      "demand_org": "",
+      "notice_no": "R26BK01804557",
+      "notice_date": "2026-11-02 16:20:37",
+      "deadline": "2026-11-09 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804557&bidPbancOrd=000",
+      "budget": "64460000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "전공분야 보수교육 AI 서비스 사용권",
+      "org": "한국기술교육대학교",
+      "demand_org": "",
+      "notice_no": "R26BK01804768",
+      "notice_date": "2026-11-02 16:54:22",
+      "deadline": "2026-11-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804768&bidPbancOrd=000",
+      "budget": "49500000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 한국인공지능소프트웨어산업협회 강의장 훈련장비 구축",
+      "org": "한국인공지능소프트웨어산업협회",
+      "demand_org": "",
+      "notice_no": "R26BK01805071",
+      "notice_date": "2026-11-02 18:13:21",
+      "deadline": "2026-11-06 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805071&bidPbancOrd=000",
+      "budget": "168850000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능 작·편곡 모듈이 탑재된 자동연주 업라이트 피아노 시스템",
+      "org": "광주과학기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01805143",
+      "notice_date": "2026-11-02 18:29:24",
+      "deadline": "2026-11-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805143&bidPbancOrd=000",
+      "budget": "19500000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년 스포츠테크 서비스 고도화를 위한 데이터·AI 서비스 운영 플랫폼 이용료 통합 청구 계약",
+      "org": "주식회사 김캐디",
+      "demand_org": "",
+      "notice_no": "R26BK01805382",
+      "notice_date": "2026-11-02 21:39:09",
+      "deadline": "2026-11-09 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805382&bidPbancOrd=000",
+      "budget": "39490000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "2026학년도 스마트팩토리과 실험실습기자재(피지컬AI 로봇시스템) 구입",
+      "org": "조달청 부산지방조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01802992",
+      "notice_date": "2026-11-03 09:59:30",
+      "deadline": "2026-11-27 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01802992&bidPbancOrd=000",
+      "budget": "756010000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2027년 챗봇 ‘서울톡’ 시스템 유지관리 용역",
+      "org": "서울특별시",
+      "demand_org": "",
+      "notice_no": "R26BK01803136",
+      "notice_date": "2026-11-02 15:46:32",
+      "deadline": "2026-11-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803136&bidPbancOrd=000",
+      "budget": "562265000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2027년 조세심판 AI 서비스 민관협력형 클라우드 임차 및 운영관리",
+      "org": "조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01804519",
+      "notice_date": "2026-11-02 17:02:14",
+      "deadline": "2026-12-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804519&bidPbancOrd=000",
+      "budget": "1050111600"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "AI 서비스 플랫폼 구축",
+      "org": "조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01802991",
+      "notice_date": "2026-11-02 17:47:16",
+      "deadline": "2026-11-26 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01802991&bidPbancOrd=000",
+      "budget": "3019200680"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2027년 서울시 생성형 AI 서비스 운영 및 유지관리",
+      "org": "서울특별시",
+      "demand_org": "",
+      "notice_no": "R26BK01805013",
+      "notice_date": "2026-11-02 17:48:46",
+      "deadline": "2026-11-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805013&bidPbancOrd=000",
+      "budget": "234622000"
     },
     {
       "source": "기업마당",
