@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:47:00",
+  "generated_at": "2026-11-15T02:13:43",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,98 +44,8 @@
       ]
     }
   ],
-  "count": 24,
+  "count": 18,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "인공지능연구소 고성능 그래픽 처리 장치 구매",
-      "org": "한경국립대학교 안성캠퍼스 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01801975",
-      "notice_date": "2026-11-13 09:18:44",
-      "deadline": "2026-11-06 13:10:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801975&bidPbancOrd=001",
-      "budget": "32000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "부산대학교 도서관 AI 서비스용 GPU서버 구매",
-      "org": "부산대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01818570",
-      "notice_date": "2026-11-13 10:36:11",
-      "deadline": "2026-11-20 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01818570&bidPbancOrd=000",
-      "budget": "152000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "AI,DX 기반 분자진동 발열처리 공정 자동화 시스템의 데이터수집/데이터저장/연산 모니터링/피드백 제어 시스템 구축",
-      "org": "주식회사 코솔러스",
-      "demand_org": "",
-      "notice_no": "R26BK01829100",
-      "notice_date": "2026-11-13 12:00:02",
-      "deadline": "2026-11-16 17:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829100&bidPbancOrd=000",
-      "budget": "63376500"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "Spectrometer for PL-Raman dual mesurement",
-      "org": "기초과학연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01829241",
-      "notice_date": "2026-11-13 13:45:11",
-      "deadline": "2026-11-19 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829241&bidPbancOrd=000",
-      "budget": "29700000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2027년 서울로봇인공지능과학관 전시 운영 및 콘텐츠 기획·개발 용역",
-      "org": "서울특별시",
-      "demand_org": "",
-      "notice_no": "R26BK01830056",
-      "notice_date": "2026-11-13 16:30:48",
-      "deadline": "2026-11-24 16:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830056&bidPbancOrd=000",
-      "budget": "1122251000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "로보틱 햅틱 케인 LLM 시스템 구축 지원",
-      "org": "광주과학기술원",
-      "demand_org": "",
-      "notice_no": "R26BK01830636",
-      "notice_date": "2026-11-13 21:36:38",
-      "deadline": "2026-11-23 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830636&bidPbancOrd=000",
-      "budget": "15000000"
-    },
     {
       "source": "기업마당",
       "category": "내수,부산,2026,부산테크노파크,부산광역시,의료산업,제품개발,고령화산업,국내전시회",
