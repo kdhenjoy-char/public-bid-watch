@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:13:43",
+  "generated_at": "2026-11-16T02:27:08",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,23 @@
       ]
     }
   ],
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "2026년도 전문대학 혁신지원사업 의료인공지능학과 실험실습기자재(인공지능(AI) 딥러닝 서버) 구입",
+      "org": "동남보건대학 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01831078",
+      "notice_date": "2026-11-16 08:55:12",
+      "deadline": "2026-11-24 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01831078&bidPbancOrd=000",
+      "budget": "29100000"
+    },
     {
       "source": "기업마당",
       "category": "내수,부산,2026,부산테크노파크,부산광역시,의료산업,제품개발,고령화산업,국내전시회",
