@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:51:36",
+  "generated_at": "2026-11-18T03:57:11",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,53 +44,8 @@
       ]
     }
   ],
-  "count": 33,
+  "count": 27,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년도 전문대학 혁신지원사업 의료인공지능학과 실험실습기자재(인공지능(AI) 딥러닝 서버) 구입",
-      "org": "동남보건대학 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01831078",
-      "notice_date": "2026-11-16 08:55:12",
-      "deadline": "2026-11-24 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01831078&bidPbancOrd=000",
-      "budget": "29100000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "가정 주치의 인공지능 연구용 지피유 서버",
-      "org": "광주과학기술원",
-      "demand_org": "",
-      "notice_no": "R26BK01834461",
-      "notice_date": "2026-11-16 22:17:12",
-      "deadline": "2026-11-24 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01834461&bidPbancOrd=000",
-      "budget": "87307000"
-    },
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "NPU 가속 기반 인공지능 추론 서버 시스템",
-      "org": "광주과학기술원",
-      "demand_org": "",
-      "notice_no": "R26BK01834466",
-      "notice_date": "2026-11-16 22:25:47",
-      "deadline": "2026-11-24 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01834466&bidPbancOrd=000",
-      "budget": "99000000"
-    },
     {
       "source": "나라장터",
       "category": "물품",
@@ -123,93 +78,33 @@
     },
     {
       "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "AI 학사․진로 상담 챗봇 구축 입찰 공고",
-      "org": "동서대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01832222",
-      "notice_date": "2026-11-16 13:23:18",
-      "deadline": "2026-11-27 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01832222&bidPbancOrd=000",
-      "budget": "100000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2027년 서울시 생성형 AI 서비스 운영 및 유지관리",
-      "org": "서울특별시",
-      "demand_org": "",
-      "notice_no": "R26BK01832681",
-      "notice_date": "2026-11-16 14:35:48",
-      "deadline": "2026-11-27 16:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01832681&bidPbancOrd=000",
-      "budget": "234622000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "26~27-N-생성형 AI 기반 지능형 작전지원체계 구축",
-      "org": "국방부 국군재정관리단",
-      "demand_org": "",
-      "notice_no": "R26BK01833175",
-      "notice_date": "2026-11-16 15:50:03",
-      "deadline": "2026-11-27 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01833175&bidPbancOrd=000",
-      "budget": "1200000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "marine-robot"
-      ],
-      "title": "2027년 해양로봇센터 수조시설 유지보수 용역",
-      "org": "한국생산기술연구원",
-      "demand_org": "",
-      "notice_no": "R26BK01833346",
-      "notice_date": "2026-11-16 16:07:45",
-      "deadline": "2026-11-27 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01833346&bidPbancOrd=000",
-      "budget": "28908000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "smart-factory"
       ],
-      "title": "레미콘 D-MES 구축 및 AX 품질정보 Platform 개발",
-      "org": "한국표준협회",
+      "title": "한국원자력마이스터고등학교 스마트팩토리 협동로봇 실습시스템 제조구매",
+      "org": "조달청 대구지방조달청",
       "demand_org": "",
-      "notice_no": "R26BK01833281",
-      "notice_date": "2026-11-16 16:10:11",
-      "deadline": "",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01833281&bidPbancOrd=000",
-      "budget": "300000000"
+      "notice_no": "R26BK01830712",
+      "notice_date": "2026-11-17 15:50:19",
+      "deadline": "2026-12-01 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830712&bidPbancOrd=000",
+      "budget": "487389970"
     },
     {
       "source": "나라장터",
-      "category": "용역",
+      "category": "물품",
       "scenario_ids": [
         "gen-ai"
       ],
-      "title": "[혁신]도서관 정보시스템 고도화 및 모바일·AI 서비스 구축 업체 선정(확대공고)",
-      "org": "한양여자대학교",
+      "title": "대규모 언어모델(LLM) 데이터 학습 및 고성능 연산을 위한 GPU 연산 서버 구매",
+      "org": "조달청 제주지방조달청",
       "demand_org": "",
-      "notice_no": "R26BK01832144",
-      "notice_date": "2026-11-16 16:55:50",
-      "deadline": "2026-11-30 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01832144&bidPbancOrd=000",
-      "budget": "101000000"
+      "notice_no": "R26BK01836286",
+      "notice_date": "2026-11-17 17:18:20",
+      "deadline": "2026-12-01 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01836286&bidPbancOrd=000",
+      "budget": "200547420"
     },
     {
       "source": "나라장터",
@@ -245,16 +140,61 @@
       "source": "나라장터",
       "category": "용역",
       "scenario_ids": [
-        "smart-factory"
+        "gen-ai"
       ],
-      "title": "스마트팩토리 신규증축동 인입전력공급 전기감리용역",
-      "org": "제주특별자치도개발공사",
+      "title": "2027년 서울로봇인공지능과학관 시설관리 용역",
+      "org": "서울특별시",
       "demand_org": "",
-      "notice_no": "R26BK01819618",
-      "notice_date": "2026-11-16 15:04:12",
-      "deadline": "2026-11-20 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01819618&bidPbancOrd=000",
-      "budget": "96087000"
+      "notice_no": "R26BK01836233",
+      "notice_date": "2026-11-17 14:51:49",
+      "deadline": "2026-11-25 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01836233&bidPbancOrd=000",
+      "budget": "497156000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "카자흐스탄 크즐오르다 대학교 인공지능 단과대학 내 VR 실습실 장비 설치사업 구축",
+      "org": "서울과학기술대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01836843",
+      "notice_date": "2026-11-17 16:38:45",
+      "deadline": "2026-11-30 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01836843&bidPbancOrd=000",
+      "budget": "104879540"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 이용자 참여플랫폼 시스템 유지보수 및 운영 지원",
+      "org": "사단법인 한국정보통신진흥협회",
+      "demand_org": "",
+      "notice_no": "R26BK01837136",
+      "notice_date": "2026-11-17 17:19:38",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01837136&bidPbancOrd=000",
+      "budget": "20000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "생성형 AI 이용자 참여 플랫폼 콘텐츠 개발",
+      "org": "사단법인 한국정보통신진흥협회",
+      "demand_org": "",
+      "notice_no": "R26BK01837164",
+      "notice_date": "2026-11-17 17:24:41",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01837164&bidPbancOrd=000",
+      "budget": "30000000"
     },
     {
       "source": "나라장터",
@@ -314,36 +254,6 @@
       "notice_date": "2026-11-06 09:28:11",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127728",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,산업에너지,진공,공기압축,산업공학,독일하노버산업전시회,독일하노버산업,하노버메쎄,산업통상부,2026,한국베어링산업협회,디지털솔루션,구동,제조AI,동력,산업전,혁신,산업,하노버,연구,스마트제조,자동화,독일,대한무역투자진흥공사,전시회,박람회,디지털트윈,기계",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2027년 독일 하노버 산업전시회 (Hannover Messe) 한국관(로봇분야) 참가기업 모집 공고",
-      "org": "산업통상부",
-      "demand_org": "대한무역투자진흥공사",
-      "notice_no": "PBLN_000000000127709",
-      "notice_date": "2026-11-05 10:47:32",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127709",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,자동화핵심모듈,지능형자동화,AI 품질검사,AI Agent,독일하노버산업전시회,독일하노버산업,하노버메쎄,첨단제조장비,AI인프라,산업통상부,2026,산업AI,자율제조,산업데이터,제조AI,한국산업지능화협회,정밀기계,산업,핵심부품,하노버,스마트팩토리,독일,대한무역투자진흥공사,전시회,박람회,디지털트윈,기계",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2027년 독일 하노버 산업전시회 (Hannover Messe) 한국관(기계분야) 참가기업 모집 공고",
-      "org": "산업통상부",
-      "demand_org": "대한무역투자진흥공사",
-      "notice_no": "PBLN_000000000127707",
-      "notice_date": "2026-11-05 10:34:40",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127707",
       "budget": ""
     },
     {
