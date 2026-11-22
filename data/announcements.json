@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:36:50",
+  "generated_at": "2026-11-22T02:43:53",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,23 +44,8 @@
       ]
     }
   ],
-  "count": 17,
+  "count": 16,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "자율형 인공지능 적합 데이터 파이프라인 및 데이터 품질 관리 시스템 구축사업",
-      "org": "조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01843717",
-      "notice_date": "2026-11-20 17:13:03",
-      "deadline": "2026-12-16 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01843717&bidPbancOrd=000",
-      "budget": "435330000"
-    },
     {
       "source": "기업마당",
       "category": "내수,부산,2026,부산테크노파크,부산광역시,의료산업,제품개발,고령화산업,국내전시회",
