@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:43:53",
+  "generated_at": "2026-11-23T03:18:41",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,8 +44,68 @@
       ]
     }
   ],
-  "count": 16,
+  "count": 20,
   "items": [
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "[세종산단20260035-1호] 세종대학교 인공지능데이터사이언스학과 로봇용 전동 리프트 등 3종 구매",
+      "org": "세종대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01847606",
+      "notice_date": "2026-11-23 10:22:57",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847606&bidPbancOrd=000",
+      "budget": "48367396"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "대전산업정보고등학교 미래직업교육센터 스마트공장트레이닝플렛폼 구매",
+      "org": "대전광역시교육청 대전산업정보고등학교",
+      "demand_org": "",
+      "notice_no": "R26BK01847693",
+      "notice_date": "2026-11-23 11:11:03",
+      "deadline": "2026-12-04 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847693&bidPbancOrd=000",
+      "budget": "100000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "첨단분야 혁신융합대학사업 관련 인공지능학과 물품(GPU)",
+      "org": "제주한라대학교산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01847967",
+      "notice_date": "2026-11-23 11:21:29",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847967&bidPbancOrd=000",
+      "budget": "160000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "AI 스마트 민원 챗봇 구축 용역",
+      "org": "강원특별자치도 고성군",
+      "demand_org": "",
+      "notice_no": "R26BK01847358",
+      "notice_date": "2026-11-23 10:08:27",
+      "deadline": "2026-11-23 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847358&bidPbancOrd=000",
+      "budget": "50000000"
+    },
     {
       "source": "기업마당",
       "category": "내수,부산,2026,부산테크노파크,부산광역시,의료산업,제품개발,고령화산업,국내전시회",
