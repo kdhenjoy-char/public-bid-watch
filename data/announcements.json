@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:18:41",
+  "generated_at": "2026-11-24T06:34:34",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "count": 20,
+  "count": 31,
   "items": [
     {
       "source": "나라장터",
@@ -93,6 +93,66 @@
     },
     {
       "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "제주남부환경관리센터 분말소석회(200mesh) 연간 단가 구매",
+      "org": "베올리아산업개발코리아 주식회사",
+      "demand_org": "",
+      "notice_no": "R26BK01847394",
+      "notice_date": "2026-11-23 13:36:50",
+      "deadline": "2026-12-01 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847394&bidPbancOrd=000",
+      "budget": "117300000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "GPU 기반 고성능 인공지능 연구용 워크스테이션 구매",
+      "org": "중앙대학교 산학협력단",
+      "demand_org": "",
+      "notice_no": "R26BK01850642",
+      "notice_date": "2026-11-24 09:07:03",
+      "deadline": "2026-12-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01850642&bidPbancOrd=000",
+      "budget": "48716800"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "RAG 기반 파이프라인 검증을 위한 모듈형 클러스터 시제품 제작",
+      "org": "한국생산기술연구원",
+      "demand_org": "",
+      "notice_no": "R26BK01852200",
+      "notice_date": "2026-11-24 14:07:44",
+      "deadline": "2026-11-24 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01852200&bidPbancOrd=000",
+      "budget": "220000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "물품",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "과학기술정보통신부 국민인공지능서비스혁신추진단 온프레미스 개발환경 구축을 위한 물품 구매",
+      "org": "조달청",
+      "demand_org": "",
+      "notice_no": "R26BK01852140",
+      "notice_date": "2026-11-24 14:50:10",
+      "deadline": "2026-12-04 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01852140&bidPbancOrd=000",
+      "budget": "1320000000"
+    },
+    {
+      "source": "나라장터",
       "category": "용역",
       "scenario_ids": [
         "gen-ai"
@@ -102,9 +162,114 @@
       "demand_org": "",
       "notice_no": "R26BK01847358",
       "notice_date": "2026-11-23 10:08:27",
-      "deadline": "2026-11-23 12:00:00",
+      "deadline": "2026-11-23 14:30:00",
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847358&bidPbancOrd=000",
       "budget": "50000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "(천안시 거점형 스마트도시 조성사업) 행정정보 제공용 RAG 기반 SLM 응답 소프트웨어 개발",
+      "org": "코나아이(주)",
+      "demand_org": "",
+      "notice_no": "R26BK01844654",
+      "notice_date": "2026-11-23 14:11:10",
+      "deadline": "2026-11-23 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01844654&bidPbancOrd=000",
+      "budget": "18500000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "로보틱 햅틱 케인 LLM 시스템 구축 지원",
+      "org": "광주과학기술원",
+      "demand_org": "",
+      "notice_no": "R26BK01849241",
+      "notice_date": "2026-11-23 15:34:53",
+      "deadline": "2026-11-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01849241&bidPbancOrd=000",
+      "budget": "15000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "용역",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "디지털트윈 통합플랫폼 정보보안경영시스템(ISO27001) 컨설팅 및 인증 용역",
+      "org": "(재)원주의료기기산업진흥원",
+      "demand_org": "",
+      "notice_no": "R26BK01852242",
+      "notice_date": "2026-11-24 14:20:25",
+      "deadline": "",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01852242&bidPbancOrd=000",
+      "budget": "70000000"
+    },
+    {
+      "source": "나라장터",
+      "category": "공사",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": "인공지능직업교육센터 전기 일괄차단 시설공사",
+      "org": "충청남도교육청",
+      "demand_org": "",
+      "notice_no": "R26BK01849913",
+      "notice_date": "2026-11-23 17:43:34",
+      "deadline": "2026-11-27 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01849913&bidPbancOrd=000",
+      "budget": ""
+    },
+    {
+      "source": "나라장터",
+      "category": "공사",
+      "scenario_ids": [
+        "gen-ai"
+      ],
+      "title": " 영동공공하수처리장 인공지능형 자동역률제어 시스템 구축사업",
+      "org": "충청북도 영동군",
+      "demand_org": "",
+      "notice_no": "R26BK01850477",
+      "notice_date": "2026-11-23 20:50:12",
+      "deadline": "2026-11-30 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01850477&bidPbancOrd=000",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "기술,서울,부산,대구,인천,전남광주,대전,울산,세종,경기,강원,충북,충남,전북,경북,경남,제주,제조AI특화,2026,AX,자율형공장,상생형,공정최적화,제조혁신,ICT,스마트공장,AI,중소기업기술정보진흥원,중소벤처기업부,제조업,중견기업,중소기업",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "2027년 스마트공장 구축지원사업 모집 공고",
+      "org": "중소벤처기업부",
+      "demand_org": "중소기업기술정보진흥원",
+      "notice_no": "PBLN_000000000128085",
+      "notice_date": "2026-11-24 09:43:12",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128085",
+      "budget": ""
+    },
+    {
+      "source": "기업마당",
+      "category": "수출,내수,서울,KIMES 2027,2026,10년미만,고려대학교,병원설비,국제의료기기,전시부스,컨퍼런스,비즈니스상담,임차료,한국과학기술연구원,장치비,서울바이오허브,의료,네트워킹,창업기업,서울특별시,전시회,바이오",
+      "scenario_ids": [
+        "smart-factory"
+      ],
+      "title": "[서울] 제42회 국제의료기기ㆍ병원설비전시회(KIMES 2027) 참가 기업 모집 공고",
+      "org": "서울특별시",
+      "demand_org": "서울바이오허브",
+      "notice_no": "PBLN_000000000128081",
+      "notice_date": "2026-11-23 14:41:21",
+      "deadline": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128081",
+      "budget": ""
     },
     {
       "source": "기업마당",
