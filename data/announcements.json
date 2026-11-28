@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:38:46",
+  "generated_at": "2026-11-28T04:23:32",
   "scenarios": [
     {
       "id": "smart-factory",
@@ -44,98 +44,8 @@
       ]
     }
   ],
-  "count": 25,
+  "count": 15,
   "items": [
-    {
-      "source": "나라장터",
-      "category": "물품",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026학년도 양산인공지능고등학교 AI융합팩토리과 실습기자재 구입(제조AI협동로봇실습장비, AI로봇공정실습장비)",
-      "org": "경상남도교육청 양산인공지능고등학교",
-      "demand_org": "",
-      "notice_no": "R26BK01859541",
-      "notice_date": "2026-11-26 16:35:15",
-      "deadline": "2026-12-17 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01859541&bidPbancOrd=000",
-      "budget": "534960000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2027년 하남시 디지털트윈 공간정보 플랫폼 유지관리",
-      "org": "한국국토정보공사 인천경기남부지역본부",
-      "demand_org": "",
-      "notice_no": "R26BK01858271",
-      "notice_date": "2026-11-26 11:37:03",
-      "deadline": "2026-12-07 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01858271&bidPbancOrd=000",
-      "budget": "117700000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "2027년 댐-하천 디지털트윈 물관리플랫폼 유지보수",
-      "org": "조달청 서울지방조달청",
-      "demand_org": "",
-      "notice_no": "R26BK01859162",
-      "notice_date": "2026-11-26 14:55:11",
-      "deadline": "2026-12-08 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01859162&bidPbancOrd=000",
-      "budget": "2812530800"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 재학생맞춤형 고용서비스「CARE-Y 청년잇다 ·Career DNA 」 AI 에이전트 플랫폼 구축 용역",
-      "org": "국립창원대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01856011",
-      "notice_date": "2026-11-26 16:28:35",
-      "deadline": "2026-12-07 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01856011&bidPbancOrd=001",
-      "budget": "50000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "동국대학교 생성형 AI 의존의 유발요인과 영향에 관한 국가 간 비교 연구 용역",
-      "org": "동국대학교 산학협력단",
-      "demand_org": "",
-      "notice_no": "R26BK01859905",
-      "notice_date": "2026-11-26 16:50:59",
-      "deadline": "2026-12-07 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01859905&bidPbancOrd=000",
-      "budget": "30000000"
-    },
-    {
-      "source": "나라장터",
-      "category": "용역",
-      "scenario_ids": [
-        "gen-ai"
-      ],
-      "title": "2026년 재학생맞춤형 고용서비스「CARE-Y 청년잇다 ·Career DNA 」 AI 에이전트 플랫폼 구축 용역",
-      "org": "국립창원대학교",
-      "demand_org": "",
-      "notice_no": "R26BK01859801",
-      "notice_date": "2026-11-26 16:59:19",
-      "deadline": "2026-12-08 11:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01859801&bidPbancOrd=000",
-      "budget": "50000000"
-    },
     {
       "source": "나라장터",
       "category": "용역",
@@ -164,66 +74,6 @@
       "notice_date": "2026-11-24 09:43:12",
       "deadline": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128085",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,내수,서울,KIMES 2027,2026,10년미만,고려대학교,병원설비,국제의료기기,전시부스,컨퍼런스,비즈니스상담,임차료,한국과학기술연구원,장치비,서울바이오허브,의료,네트워킹,창업기업,서울특별시,전시회,바이오",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[서울] 제42회 국제의료기기ㆍ병원설비전시회(KIMES 2027) 참가 기업 모집 공고",
-      "org": "서울특별시",
-      "demand_org": "서울바이오허브",
-      "notice_no": "PBLN_000000000128081",
-      "notice_date": "2026-11-23 14:41:21",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128081",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "내수,부산,2026,부산테크노파크,부산광역시,의료산업,제품개발,고령화산업,국내전시회",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[부산] 2027년 고령친화산업 육성 지원사업 국내전시회 참가지원 참여기업 모집 공고 국제의료기기&병원설비전시회 (2027 KIMES)",
-      "org": "부산광역시",
-      "demand_org": "부산테크노파크",
-      "notice_no": "PBLN_000000000127901",
-      "notice_date": "2026-11-13 09:29:46",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127901",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "수출,내수,부산,2026,병원설비,장치,국제의료기기,독립부스,비품,임차료,부산테크노파크,고령친화산업,부산광역시,전시회",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[부산] 2027년 국내전시회 참가지원 참여기업 모집 공고(국제의료기기ㆍ병원설비전시회 (2027 KIMES))",
-      "org": "부산광역시",
-      "demand_org": "부산테크노파크",
-      "notice_no": "PBLN_000000000127874",
-      "notice_date": "2026-11-12 09:42:02",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127874",
-      "budget": ""
-    },
-    {
-      "source": "기업마당",
-      "category": "기술,경기,2026,첨단기술,생산공정,제어기,센서,제품설계,IoT,자동화장비,파주시,5G,경기대진테크노파크,빅데이터,경기도,스마트공장,제조업,중견기업,중소기업",
-      "scenario_ids": [
-        "smart-factory"
-      ],
-      "title": "[경기] 파주시 2026년 스마트공장 구축지원사업 모집 공고",
-      "org": "경기도",
-      "demand_org": "경기대진테크노파크",
-      "notice_no": "PBLN_000000000127728",
-      "notice_date": "2026-11-06 09:28:11",
-      "deadline": "",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127728",
       "budget": ""
     },
     {
